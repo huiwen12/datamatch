@@ -1,0 +1,2401 @@
+school,relationship_status,have_ever_relationship,life_satisfaction,relationship_satisfaction,self_desirability,num_relationships
+Carleton College,"In a relationship, less than 6 months",Yes,6,6,4,1
+Princeton University,"In a relationship, less than 6 months",Yes,7,7,6,1
+Harvard College,Single and not looking for a relationship,No,5,3,6,
+Harvard College,Single and looking for a relationship,No,,3,3,
+Dartmouth College,Single and looking for a relationship,No,6,2,5,
+Princeton University,Single and looking for a relationship,No,6,2,3,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,4,2,2,1
+McGill University,Single and looking for a relationship,Yes,0,0,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,No,4,3,4,
+Yale University,Single and not looking for a relationship,Yes,6,2,6,
+Yale University,Single and not looking for a relationship,Yes,2,0,0,5
+University of Wisconsin-Madison,Single and not looking for a relationship,No,6,3,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,2,6,
+The University of Chicago,Single and looking for a relationship,Yes,6,2,4,
+Yale University,Single and looking for a relationship,No,3,3,0,
+Wellesley College,Single and not looking for a relationship,No,5,3,5,
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,4,4,4,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,7,8,5,2
+The University of Chicago,Single and looking for a relationship,Yes,5,3,5,1
+Yale University,Single and not looking for a relationship,No,3,7,7,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,6,6,
+Yale University,Single and looking for a relationship,Yes,7,3,5,2
+Boston College,Single and looking for a relationship,No,2,0,3,
+McGill University,Single and not looking for a relationship,No,4,4,4,
+Washington University in St. Louis,Single and looking for a relationship,No,4,1,4,
+The Claremont Colleges,Single and not looking for a relationship,No,,,,
+Boston College,Single and not looking for a relationship,No,6,6,7,
+The University of Chicago,Single and looking for a relationship,Yes,4,5,5,4
+Yale University,Single and looking for a relationship,No,3,0,6,
+University of Pennsylvania,Single and looking for a relationship,Yes,4,5,5,
+Dartmouth College,Single and looking for a relationship,Yes,4,2,6,1
+Boston College,Single and not looking for a relationship,No,6,1,2,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,7,1
+Princeton University,Single and looking for a relationship,No,5,2,6,
+Carnegie Mellon University,Single and not looking for a relationship,No,2,1,5,
+The University of Chicago,Single and not looking for a relationship,No,5,1,8,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,5,4,1
+The University of Chicago,Single and looking for a relationship,No,5,0,6,
+Dartmouth College,Single and not looking for a relationship,No,4,2,,
+The Claremont Colleges,Single and looking for a relationship,No,7,6,3,
+Yale University,Single and looking for a relationship,No,6,6,6,
+Yale University,Single and not looking for a relationship,Yes,6,8,5,3
+University of Washington,Single and looking for a relationship,Yes,5,1,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,0,3,
+"University of California, San Diego",Single and looking for a relationship,No,6,2,5,
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,7,3,3.5
+University of Pennsylvania,Single and looking for a relationship,Yes,7,3,6,1
+Princeton University,Single and not looking for a relationship,No,6,2,2,
+University of Wisconsin-Madison,Single and looking for a relationship,No,4,0,4,
+McGill University,Single and looking for a relationship,No,3,0,2,
+Brown University,Single and looking for a relationship,Yes,7,,8,2
+Brown University,Single and looking for a relationship,Yes,5,3,4,1
+"University of California, Los Angeles","In a relationship, less than 6 months",Yes,6,7,6,2
+Princeton University,Single and looking for a relationship,No,7,2,2,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,6,7,2
+Princeton University,Single and looking for a relationship,No,6,2,2,
+University of Pennsylvania,Single and looking for a relationship,Yes,5,3,6,1
+The University of Chicago,Single and looking for a relationship,No,3,3,4,
+University of Washington,Single and looking for a relationship,No,5,1,2,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,6,
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,6,6,5,1
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,6,2,3
+Yale University,Single and looking for a relationship,No,5,1,6,
+The University of Chicago,Single and looking for a relationship,Yes,7,4,6,2
+Washington University in St. Louis,Single and looking for a relationship,No,7,4,6,
+Yale University,Single and looking for a relationship,No,6,2,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,5,5,1
+Yale University,"In a relationship, less than 6 months",Yes,7,8,3,1
+University of Pennsylvania,Single and looking for a relationship,Yes,4,3,5,1
+The University of Chicago,Single and looking for a relationship,No,7,2,3,
+"University of California, San Diego",Single and looking for a relationship,Yes,7,2,6,1
+Harvard College,Single and looking for a relationship,No,5,2,7,
+University of Pennsylvania,Single and looking for a relationship,Yes,7,4,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,1,2,2
+University of Wisconsin-Madison,Single and looking for a relationship,No,4,1,4,
+"University of California, San Diego",Single and looking for a relationship,Yes,4,2,3,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,5,7,7,2
+Yale University,Single and looking for a relationship,No,8,1,7,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,5,
+Washington University in St. Louis,Single and looking for a relationship,Yes,3,1,8,1
+Yale University,Single and looking for a relationship,No,7,1,4,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,3,6,6,2
+Washington University in St. Louis,Single and looking for a relationship,No,4,0,5,
+Yale University,Single and not looking for a relationship,Yes,6,3,6,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,7,2,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,8,5,6,1
+Boston College,Single and not looking for a relationship,No,6,4,7,
+University of Pennsylvania,Single and looking for a relationship,No,2,0,5,
+The Claremont Colleges,Single and looking for a relationship,Yes,5,6,7,2
+Boston College,Single and not looking for a relationship,Yes,3,2,7,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,2,0,5,
+Boston College,Single and looking for a relationship,Yes,5,1,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,4,2,
+Boston College,Single and looking for a relationship,No,5,5,6,
+Yale University,Single and not looking for a relationship,No,6,3,4,
+Vanderbilt University,Single and not looking for a relationship,No,6,7,5,
+University of Washington,Single and looking for a relationship,No,5,0,5,
+Boston College,Single and looking for a relationship,No,6,0,2,
+New York University,Single and looking for a relationship,No,5,2,,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,5,6,1
+The Claremont Colleges,Single and looking for a relationship,No,6,3,6,
+Yale University,"In a relationship, longer than 6 months",Yes,5,5,6,1
+Washington University in St. Louis,Single and not looking for a relationship,No,4,7,8,
+University of Pennsylvania,Single and looking for a relationship,Yes,5,1,5,2
+Boston College,Single and looking for a relationship,No,2,1,3,
+Dartmouth College,Single and looking for a relationship,No,6,1,2,
+Vanderbilt University,Single and looking for a relationship,Yes,5,3,4,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,2,6,1
+Wesleyan University,"In a relationship, less than 6 months",Yes,6,6,6,3
+Tufts University,Single and looking for a relationship,Yes,5,2,5,4
+Dartmouth College,Single and looking for a relationship,No,7,5,7,
+University of Pennsylvania,Single and looking for a relationship,Yes,6,3,6,1
+The University of Chicago,Single and looking for a relationship,No,3,0,3,
+The University of Chicago,Single and looking for a relationship,No,1,5,1,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,5,2,6,1
+Brown University,"In a relationship, longer than 6 months",Yes,5,7,6,1
+University of Pennsylvania,Single and looking for a relationship,No,5,1,6,
+Washington University in St. Louis,Single and looking for a relationship,No,7,3,5,
+Brown University,Single and looking for a relationship,Yes,7,4,6,0
+Boston College,Single and looking for a relationship,No,7,1,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,4,0,2,
+Yale University,Single and looking for a relationship,No,4,4,4,
+Washington University in St. Louis,Single and looking for a relationship,No,7,3,5,
+The University of Chicago,Single and looking for a relationship,Yes,,2,5,2
+The University of Chicago,Single and not looking for a relationship,Yes,5,3,6,1
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,6,7,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,4,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,3,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,0,6,1
+New York University,Single and not looking for a relationship,No,1,0,0,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,1,0,5,1
+University of Pennsylvania,Single and looking for a relationship,No,7,2,3,
+"University of California, San Diego",Single and looking for a relationship,No,6,2,4,
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,7,
+Dartmouth College,Single and looking for a relationship,Yes,2,2,6,3
+Tufts University,Single and not looking for a relationship,No,5,3,5,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",No,5,5,1,
+Tufts University,"In a relationship, less than 6 months",Yes,6,6,4,2
+McGill University,Single and looking for a relationship,No,5,3,5,
+Dartmouth College,Single and looking for a relationship,No,,3,3,
+The Claremont Colleges,Single and looking for a relationship,Yes,4,2,5,2
+Boston College,Single and looking for a relationship,Yes,5,4,6,2
+Boston College,Single and looking for a relationship,Yes,6,3,6,1
+Columbia University,Single and looking for a relationship,No,6,2,4,
+"University of California, Los Angeles","In a relationship, less than 6 months",Yes,5,7,,2
+Vanderbilt University,Single and looking for a relationship,No,6,2,7,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,7,2,7,
+The University of Chicago,"In a relationship, less than 6 months",Yes,5,6,7,1
+Vanderbilt University,Single and not looking for a relationship,No,4,3,5,
+Wesleyan University,Single and looking for a relationship,No,5,5,6,
+Boston College,Single and looking for a relationship,Yes,6,4,6,3
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,6,3,2
+Carleton College,Single and looking for a relationship,Yes,5,3,7,1
+New York University,"In a relationship, less than 6 months",Yes,5,6,6,2
+The University of Chicago,Single and looking for a relationship,Yes,2,4,4,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,7,7,6,1
+Dartmouth College,Single and looking for a relationship,Yes,6,3,6,1
+Tufts University,Single and looking for a relationship,No,4,3,5,
+Yale University,Single and looking for a relationship,Yes,4,1,5,1.5
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,6,6,1
+Vanderbilt University,"In a relationship, longer than 6 months",Yes,3,6,2,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,2,5,
+Yale University,Single and looking for a relationship,No,4,3,6,
+The Claremont Colleges,Single and looking for a relationship,No,3,2,0,
+Yale University,Single and looking for a relationship,No,7,5,7,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,,
+The University of Chicago,Single and looking for a relationship,Yes,3,1,2,1
+Harvard College,Single and looking for a relationship,No,6,5,6,
+Harvard College,Single and looking for a relationship,No,3,5,3,
+Yale University,Single and looking for a relationship,No,6,3,7,
+Washington University in St. Louis,Single and not looking for a relationship,No,,2,,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,7,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,3,4,5,2
+Wesleyan University,Single and not looking for a relationship,Yes,1,1,4,1
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,6,6,6,2
+University of Washington,"In a relationship, longer than 6 months",Yes,6,7,6,1
+University of Washington,Single and looking for a relationship,No,4,2,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,3,5,
+Tufts University,"In a relationship, less than 6 months",Yes,6,5,5,1
+Wesleyan University,Single and looking for a relationship,No,5,0,2,
+The Claremont Colleges,Single and looking for a relationship,No,4,3,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,4,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,7,5,8,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,3,7,4
+Yale University,Single and not looking for a relationship,Yes,3,1,2,1
+The University of Chicago,"In a relationship, longer than 6 months",Yes,8,8,7,1
+Princeton University,Single and looking for a relationship,Yes,6,4,5,2
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,4,7,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,3,1,0,
+Vanderbilt University,Single and looking for a relationship,No,7,2,6,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,8,6,2
+Harvard College,Single and not looking for a relationship,No,6,2,4,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,2,2,1,
+The Claremont Colleges,Single and looking for a relationship,Yes,3,1,5,2
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,5,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,7,6,6,4
+Boston College,Single and looking for a relationship,Yes,3,5,3,1
+Washington University in St. Louis,"In a relationship, less than 6 months",No,6,7,5,
+The University of Chicago,"In a relationship, less than 6 months",Yes,5,6,5,2
+University of Pennsylvania,Single and not looking for a relationship,Yes,6,5,7,1
+Boston College,Single and looking for a relationship,No,,3,5,
+Yale University,"In a relationship, longer than 6 months",Yes,5,6,5,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,5,5,1
+University of Pennsylvania,"In a relationship, longer than 6 months",Yes,3,7,5,1
+Wellesley College,Single and not looking for a relationship,No,4,2,2,
+Columbia University,Single and looking for a relationship,No,5,0,4,
+The University of Chicago,Single and looking for a relationship,Yes,5,4,6,2
+Washington University in St. Louis,Single and looking for a relationship,No,5,3,6,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,4,5,
+Columbia University,Single and looking for a relationship,Yes,5,1,6,1
+Harvard College,Single and not looking for a relationship,No,6,4,6,
+Vanderbilt University,Single and looking for a relationship,Yes,8,1,7,2
+Washington University in St. Louis,Single and looking for a relationship,No,3,0,4,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,6,3,5,
+Tufts University,Single and not looking for a relationship,No,5,3,,
+Brown University,Single and not looking for a relationship,Yes,7,3,4,1
+Brown University,Single and looking for a relationship,No,6,7,8,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,4,3,
+Brown University,"In a relationship, less than 6 months",Yes,3,8,,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,4,3,2,1
+The University of Chicago,Single and looking for a relationship,No,6,6,5,
+University of Pennsylvania,Single and looking for a relationship,No,4,2,5,
+The University of Chicago,Single and not looking for a relationship,No,5,2,6,
+Tufts University,Single and looking for a relationship,No,5,4,4,
+Brown University,"In a relationship, longer than 6 months",No,5,6,4,
+Washington University in St. Louis,Single and looking for a relationship,No,4,2,,
+McGill University,Single and looking for a relationship,No,5,1,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,6,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,6,4,3
+Boston College,Single and looking for a relationship,No,4,5,6,
+"University of California, San Diego",Single and looking for a relationship,No,3,0,4,
+Harvard College,Single and looking for a relationship,No,4,4,7,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,7,4,7,1
+Boston College,Single and looking for a relationship,Yes,5,3,6,
+Tufts University,"In a relationship, longer than 6 months",Yes,6,6,6,2
+Yale University,Single and not looking for a relationship,No,3,4,3,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,7,
+"University of California, San Diego",Single and looking for a relationship,No,6,2,4,
+Dartmouth College,Single and looking for a relationship,No,6,0,3,
+Yale University,Single and looking for a relationship,No,6,3,6,
+Brown University,Single and looking for a relationship,No,7,2,6,
+University of Pennsylvania,Single and looking for a relationship,No,4,1,4,
+Wesleyan University,Single and not looking for a relationship,No,6,0,4,
+Dartmouth College,Single and looking for a relationship,No,6,1,6,
+Harvard College,"In a relationship, less than 6 months",No,3,6,5,
+Columbia University,Single and looking for a relationship,No,7,4,5,
+Boston College,Single and looking for a relationship,No,4,0,1,
+The University of Chicago,"In a relationship, less than 6 months",Yes,,5,,1
+Washington University in St. Louis,Single and not looking for a relationship,No,6,7,6,
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,6,
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,6,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,5,
+Tufts University,"In a relationship, less than 6 months",Yes,5,6,7,1
+Williams College,Single and looking for a relationship,No,3,4,3,
+Wesleyan University,Single and not looking for a relationship,No,5,3,6,
+University of Washington,Single and not looking for a relationship,Yes,6,2,3,1
+Boston College,Single and looking for a relationship,Yes,6,4,6,1
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,5,6,4
+Vanderbilt University,"In a relationship, longer than 6 months",Yes,6,7,3,1
+Carnegie Mellon University,Single and looking for a relationship,No,1,3,5,
+The University of Chicago,Single and looking for a relationship,No,5,,6,
+The Claremont Colleges,Single and looking for a relationship,No,2,1,5,
+Wesleyan University,"In a relationship, less than 6 months",Yes,4,3,4,2
+Dartmouth College,Single and looking for a relationship,No,4,2,5,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,4,6,1
+New York University,Single and looking for a relationship,No,5,1,4,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,6,7,4
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,5,5,4,3
+Boston College,Single and looking for a relationship,No,6,2,3,
+University of Pennsylvania,Single and looking for a relationship,No,,2,,
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,5,5,3,1
+Washington University in St. Louis,Single and looking for a relationship,No,7,,6,
+Wesleyan University,Single and looking for a relationship,Yes,5,3,6,1
+Yale University,Single and looking for a relationship,No,6,4,5,
+Wesleyan University,"In a relationship, less than 6 months",No,5,5,3,
+Harvard College,Single and not looking for a relationship,No,6,4,3,
+Dartmouth College,Single and looking for a relationship,No,7,3,5,
+University of Washington,Single and looking for a relationship,Yes,6,5,7,1
+Dartmouth College,Single and looking for a relationship,No,4,3,4,
+The University of Chicago,Single and not looking for a relationship,Yes,5,6,6,1
+University of Pennsylvania,Single and looking for a relationship,No,6,1,6,
+The University of Chicago,Single and looking for a relationship,No,5,1,2,
+The University of Chicago,Single and looking for a relationship,No,5,2,7,
+The University of Chicago,"In a relationship, less than 6 months",Yes,6,7,6,3
+The University of Chicago,Single and looking for a relationship,No,,0,6,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,6,8,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,,5,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,4,1,5,
+University of Washington,Single and not looking for a relationship,No,3,3,3,
+Vanderbilt University,"In a relationship, longer than 6 months",Yes,6,8,5,1
+University of Washington,Single and looking for a relationship,No,6,4,6,
+Boston College,Single and not looking for a relationship,No,6,5,6,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,6,1
+The University of Chicago,Single and looking for a relationship,No,6,3,5,
+University of Washington,Single and looking for a relationship,No,5,2,5,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,5,6,5,1
+McGill University,Single and looking for a relationship,No,6,2,7,
+Boston College,Single and not looking for a relationship,No,5,3,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,3,7,5,1
+The University of Chicago,Single and not looking for a relationship,No,7,2,6,
+McGill University,Single and looking for a relationship,No,6,5,5,
+University of Washington,Single and not looking for a relationship,Yes,6,4,7,1
+University of Pennsylvania,Single and looking for a relationship,Yes,6,5,5,1
+The University of Chicago,Single and looking for a relationship,No,6,5,8,
+Yale University,Single and looking for a relationship,No,6,3,4,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,2,,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,5,
+Yale University,Single and looking for a relationship,No,5,2,4,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,3,6,6,1
+McGill University,Single and looking for a relationship,Yes,6,5,6,1
+Tufts University,Single and looking for a relationship,No,4,2,5,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,3,,
+Dartmouth College,Single and looking for a relationship,No,7,2,5,
+The Claremont Colleges,"In a relationship, longer than 6 months",No,6,5,6,
+The Claremont Colleges,Single and looking for a relationship,Yes,5,1,3,1
+McGill University,Single and not looking for a relationship,No,6,,7,
+Yale University,"In a relationship, less than 6 months",Yes,7,7,5,1
+The Claremont Colleges,Single and not looking for a relationship,Yes,3,1,4,1
+Boston College,Single and looking for a relationship,Yes,5,1,6,1
+Brown University,Single and not looking for a relationship,Yes,6,5,6,3
+The University of Chicago,Single and looking for a relationship,No,,4,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,3,
+Dartmouth College,"In a relationship, less than 6 months",Yes,7,8,6,1
+The University of Chicago,Single and looking for a relationship,No,6,3,6,
+University of Pennsylvania,Single and not looking for a relationship,No,6,2,4,
+Boston College,Single and not looking for a relationship,No,7,2,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,6,5,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,7,6,3,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,2,3,1
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,3,6,5,3
+The University of Chicago,Single and looking for a relationship,No,4,3,5,
+Yale University,Single and looking for a relationship,No,5,2,4,
+The University of Chicago,Single and looking for a relationship,No,4,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,3,,5,2
+Brown University,Single and not looking for a relationship,No,6,5,6,
+Washington University in St. Louis,Single and looking for a relationship,No,2,3,2,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,8,5,2
+Yale University,Single and looking for a relationship,No,5,2,6,
+Vanderbilt University,"In a relationship, less than 6 months",Yes,1,2,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,7,
+Harvard College,Single and not looking for a relationship,No,6,4,5,
+University of Washington,Single and looking for a relationship,Yes,5,4,5,1
+Wellesley College,"In a relationship, less than 6 months",Yes,5,7,8,1
+Boston College,Single and looking for a relationship,No,2,2,6,
+Boston College,Single and looking for a relationship,No,4,2,5,
+Boston College,Single and looking for a relationship,No,4,2,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,5,
+University of Pennsylvania,Single and looking for a relationship,Yes,7,6,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,6,4,5,1
+The Claremont Colleges,Single and looking for a relationship,Yes,5,1,4,3
+McGill University,Single and looking for a relationship,No,3,1,3,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,4,3,6,1
+Other,Single and looking for a relationship,No,3,0,2,
+The University of Chicago,Single and looking for a relationship,Yes,3,3,2,0
+Princeton University,Single and looking for a relationship,Yes,6,3,6,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,7,6,2
+New York University,Single and not looking for a relationship,Yes,7,2,5,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,0,2,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,4,5,5,1
+The University of Chicago,Single and not looking for a relationship,No,5,6,5,
+Vanderbilt University,Single and looking for a relationship,No,7,4,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,7,6,6,
+The Claremont Colleges,Single and looking for a relationship,No,7,2,6,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,2,4,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,0,3,4
+Dartmouth College,Single and looking for a relationship,Yes,6,3,4,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,2,3,6,3
+Yale University,Single and looking for a relationship,No,,3,7,
+Wesleyan University,Single and looking for a relationship,Yes,2,4,6,1
+The Claremont Colleges,Single and looking for a relationship,No,3,1,4,
+Washington University in St. Louis,Single and not looking for a relationship,No,7,3,7,
+The Claremont Colleges,Single and looking for a relationship,No,4,0,6,
+"University of California, San Diego",Single and looking for a relationship,No,5,0,7,
+Brown University,Single and not looking for a relationship,Yes,5,7,6,3
+Wesleyan University,Single and looking for a relationship,Yes,5,3,6,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",No,3,6,5,
+Carnegie Mellon University,Single and looking for a relationship,Yes,6,2,7,1
+Tufts University,Single and looking for a relationship,No,6,0,7,
+Brown University,Single and looking for a relationship,No,6,3,4,
+Princeton University,Single and not looking for a relationship,No,6,7,,
+"University of California, San Diego",Single and looking for a relationship,No,6,0,2,
+University of Pennsylvania,Single and looking for a relationship,Yes,4,2,7,3
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,6,4,5,4
+"University of California, San Diego",Single and looking for a relationship,No,6,2,5,
+Princeton University,Single and not looking for a relationship,No,5,4,3,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,6,6,1
+University of Pennsylvania,Single and looking for a relationship,No,3,0,2,
+Washington University in St. Louis,Single and looking for a relationship,No,5,3,2,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,7,2,6,
+Brown University,Single and looking for a relationship,Yes,6,4,7,1
+The University of Chicago,Single and not looking for a relationship,No,4,3,2,
+Brown University,Single and not looking for a relationship,Yes,4,1,7,1
+Carnegie Mellon University,Single and looking for a relationship,No,6,2,5,
+Boston College,Single and looking for a relationship,Yes,7,5,6,2
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,6,5,2
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,3,
+Boston College,Single and looking for a relationship,Yes,3,3,6,1
+Boston College,Single and not looking for a relationship,Yes,6,4,5,2
+Dartmouth College,"In a relationship, less than 6 months",Yes,5,7,3,1
+Boston College,Single and looking for a relationship,Yes,5,2,6,1
+Columbia University,Single and looking for a relationship,No,5,2,5,
+Boston College,Single and looking for a relationship,No,5,3,6,
+Wesleyan University,"In a relationship, less than 6 months",No,4,,5,
+The University of Chicago,Single and looking for a relationship,Yes,6,3,7,1
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,6,7,6,4
+Massachusetts Institute of Technology,Single and looking for a relationship,No,8,4,6,
+The University of Chicago,Single and not looking for a relationship,No,4,2,2,
+Williams College,Single and looking for a relationship,No,6,4,4,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,3,1,4,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,8,8,6,4
+Brown University,"In a relationship, less than 6 months",Yes,3,6,4,1
+Dartmouth College,Single and looking for a relationship,No,4,5,5,
+Williams College,Single and looking for a relationship,Yes,4,1,6,3
+The University of Chicago,Single and not looking for a relationship,Yes,2,3,3,2
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,3,5,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,5,5,6,1
+"University of California, San Diego",Single and looking for a relationship,No,8,3,4,
+Brown University,Single and looking for a relationship,No,5,1,5,
+Washington University in St. Louis,Single and looking for a relationship,No,2,2,7,
+Boston College,Single and looking for a relationship,No,7,1,5,
+Wesleyan University,"In a relationship, less than 6 months",Yes,5,7,6,3
+Boston College,Single and looking for a relationship,No,5,6,6,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,6,1,2,
+The University of Chicago,Single and looking for a relationship,Yes,6,3,6,2
+Wesleyan University,Single and looking for a relationship,No,7,0,3,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,2,3,
+McGill University,Single and looking for a relationship,No,5,0,5,
+Harvard College,Single and not looking for a relationship,Yes,1,1,7,1
+Tufts University,Single and looking for a relationship,Yes,7,2,7,1
+The University of Chicago,"In a relationship, less than 6 months",Yes,2,6,4,2
+Harvard College,Single and looking for a relationship,No,5,2,5,
+Dartmouth College,"In a relationship, less than 6 months",No,6,6,5,
+Harvard College,"In a relationship, less than 6 months",Yes,5,7,5,2
+The University of Chicago,Single and looking for a relationship,Yes,3,1,3,2
+The University of Chicago,Single and not looking for a relationship,No,6,4,6,
+Tufts University,"In a relationship, less than 6 months",Yes,6,6,8,1.5
+"University of California, San Diego",Single and looking for a relationship,No,6,1,2,
+Yale University,Single and looking for a relationship,No,7,5,8,
+University of Washington,Single and not looking for a relationship,No,6,5,,
+New York University,Single and looking for a relationship,No,7,4,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,2,0,5,1
+McGill University,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Boston College,Single and looking for a relationship,No,5,2,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,7,5,7,
+University of Washington,Single and looking for a relationship,No,5,2,4,
+Vanderbilt University,Single and looking for a relationship,No,5,4,6,
+Yale University,Single and looking for a relationship,No,6,3,6,
+University of Washington,Single and looking for a relationship,No,5,3,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,,5,
+Washington University in St. Louis,Single and looking for a relationship,No,4,3,5,
+Washington University in St. Louis,Single and looking for a relationship,No,4,2,4,
+Princeton University,Single and not looking for a relationship,Yes,7,,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,5,3,2,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,5,5,5,2
+Carnegie Mellon University,"In a relationship, longer than 6 months",Yes,6,8,5,1
+Harvard College,Single and looking for a relationship,No,7,3,7,
+Boston College,Single and looking for a relationship,No,6,1,4,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,,1
+The University of Chicago,Single and looking for a relationship,No,6,2,5,
+"University of California, Los Angeles",Single and looking for a relationship,Yes,6,3,5,0
+"University of California, San Diego",Single and looking for a relationship,No,6,1,1,
+Brown University,Single and looking for a relationship,No,5,2,3,
+University of Pennsylvania,Single and looking for a relationship,No,5,3,,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,2,4,3
+Wesleyan University,Single and looking for a relationship,Yes,2,3,7,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,6,
+The University of Chicago,Single and looking for a relationship,No,5,5,7,
+Boston College,"In a relationship, longer than 6 months",Yes,6,8,7,2
+Brown University,Single and looking for a relationship,Yes,6,2,7,3
+Wesleyan University,Single and not looking for a relationship,Yes,5,,6,
+Boston College,"In a relationship, longer than 6 months",Yes,5,6,6,1
+Boston College,Single and looking for a relationship,No,7,1,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,0,2,
+Brown University,"In a relationship, less than 6 months",Yes,5,3,6,2
+Wesleyan University,Single and looking for a relationship,No,3,1,,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,3,8,
+University of Washington,Single and not looking for a relationship,No,6,,5,
+The Claremont Colleges,Single and not looking for a relationship,No,6,5,7,
+Wellesley College,Single and not looking for a relationship,No,6,7,6,
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,5,6,5,1
+Princeton University,Single and looking for a relationship,No,7,5,7,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,6,5,
+Wesleyan University,Single and looking for a relationship,No,6,3,6,
+McGill University,Single and looking for a relationship,No,6,2,6,
+The University of Chicago,Single and not looking for a relationship,Yes,3,4,6,1
+Williams College,Single and not looking for a relationship,No,6,4,6,
+Harvard College,"In a relationship, less than 6 months",Yes,3,5,4,1
+University of Washington,Single and not looking for a relationship,No,5,5,1,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,7,5,3
+Vanderbilt University,Single and not looking for a relationship,No,8,,6,
+Brown University,Single and not looking for a relationship,No,6,4,5,
+Harvard College,Single and looking for a relationship,Yes,7,1,6,4
+The Claremont Colleges,Single and looking for a relationship,No,5,3,3,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,5,
+University of Pennsylvania,Single and not looking for a relationship,No,6,3,5,
+Washington University in St. Louis,Single and looking for a relationship,No,4,1,4,
+The University of Chicago,Single and not looking for a relationship,Yes,6,6,6,2
+The University of Chicago,Single and looking for a relationship,No,5,2,4,
+Brown University,"In a relationship, less than 6 months",Yes,5,7,7,3
+"University of California, Los Angeles",Single and looking for a relationship,No,5,2,6,
+Princeton University,"In a relationship, less than 6 months",Yes,6,7,5,2
+Washington University in St. Louis,Single and looking for a relationship,Yes,3,3,5,1
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,2,6,1
+The Claremont Colleges,"In a relationship, longer than 6 months",No,6,7,6,
+University of Pennsylvania,Single and looking for a relationship,No,5,6,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,3,4,5,
+University of Washington,Single and not looking for a relationship,No,5,,6,
+Wesleyan University,Single and not looking for a relationship,No,7,8,4,
+Wesleyan University,Single and not looking for a relationship,No,2,0,1,
+Columbia University,Single and not looking for a relationship,No,6,4,4,
+Yale University,Single and looking for a relationship,No,7,2,7,
+Wesleyan University,"In a relationship, less than 6 months",Yes,4,5,5,2
+Wesleyan University,Single and looking for a relationship,No,5,3,6,
+"University of California, San Diego",Single and looking for a relationship,No,6,3,7,
+The University of Chicago,"In a relationship, less than 6 months",Yes,5,5,3,3
+University of Pennsylvania,Single and looking for a relationship,Yes,6,1,6,1
+Boston College,,,,,,
+Dartmouth College,Single and looking for a relationship,No,6,3,,
+Washington University in St. Louis,Single and looking for a relationship,No,,1,6,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,3,5,5,1
+Dartmouth College,Single and looking for a relationship,Yes,2,2,5,1
+Harvard College,Single and looking for a relationship,No,1,0,3,
+Boston College,Single and looking for a relationship,No,5,1,5,
+Vanderbilt University,Single and looking for a relationship,No,6,2,5,
+Dartmouth College,Single and not looking for a relationship,Yes,6,4,4,1
+Yale University,Single and not looking for a relationship,No,7,2,2,
+The University of Chicago,Single and looking for a relationship,No,7,3,4,
+Tufts University,Single and looking for a relationship,No,2,0,3,
+Harvard College,"In a relationship, less than 6 months",Yes,6,7,6,5
+"University of California, Berkeley",Single and looking for a relationship,Yes,6,1,5,1
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,7,6,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,2,6,5
+Yale University,Single and looking for a relationship,No,6,2,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,5,0,2,
+The Claremont Colleges,Single and looking for a relationship,No,3,0,6,
+Boston College,Single and not looking for a relationship,No,5,1,2,
+University of Wisconsin-Madison,Single and looking for a relationship,No,8,4,5,
+The University of Chicago,"In a relationship, less than 6 months",Yes,6,7,7,1
+Yale University,Single and looking for a relationship,No,6,4,6,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,4,6,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,6,
+Princeton University,Single and not looking for a relationship,No,6,4,5,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,3,
+University of Pennsylvania,Single and not looking for a relationship,No,5,2,6,
+Harvard College,Single and not looking for a relationship,No,6,,6,
+The University of Chicago,Single and looking for a relationship,Yes,5,2,4,3
+University of Pennsylvania,Single and not looking for a relationship,Yes,5,4,5,2
+Boston College,Single and looking for a relationship,No,6,0,5,
+University of Washington,Single and looking for a relationship,No,4,3,6,
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,7,7,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,5,
+Harvard College,Single and not looking for a relationship,No,5,4,5,
+Williams College,Single and looking for a relationship,No,6,2,3,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,3,0,3,1
+University of Pennsylvania,Single and looking for a relationship,Yes,6,1,4,1
+Brown University,Single and looking for a relationship,No,6,6,,
+The Claremont Colleges,Single and looking for a relationship,No,3,,6,
+University of Washington,Single and looking for a relationship,No,6,2,5,
+Boston College,Single and looking for a relationship,No,3,1,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,3,2,0,1
+The University of Chicago,"In a relationship, longer than 6 months",Yes,7,8,8,1
+University of Washington,Single and looking for a relationship,No,6,2,7,
+Carnegie Mellon University,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Brown University,Single and looking for a relationship,Yes,7,4,6,1
+Brown University,"In a relationship, longer than 6 months",Yes,4,6,5,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,4,6,5,1
+University of Pennsylvania,Single and not looking for a relationship,No,5,2,3,
+Boston College,Single and looking for a relationship,No,4,2,5,
+University of Washington,Single and not looking for a relationship,No,6,2,,
+Wellesley College,Single and looking for a relationship,No,6,1,,
+Boston College,Single and not looking for a relationship,No,6,4,6,
+Harvard College,Single and looking for a relationship,Yes,6,5,6,1.5
+"University of California, Los Angeles",Single and looking for a relationship,No,6,0,2,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,5,2,5,1
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,4,5,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,5,5,4,
+University of Washington,Single and not looking for a relationship,No,6,3,5,
+Yale University,Single and looking for a relationship,Yes,6,1,3,1
+Carnegie Mellon University,"In a relationship, less than 6 months",Yes,6,7,3,1
+University of Pennsylvania,Single and not looking for a relationship,Yes,6,3,3,1
+New York University,Single and looking for a relationship,No,6,1,6,
+"University of California, Los Angeles",Single and looking for a relationship,No,7,2,3,
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,7,7,2
+University of Pennsylvania,Single and looking for a relationship,No,6,2,3,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,3,5,5,
+Vanderbilt University,Single and looking for a relationship,No,7,5,7,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,3,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,2,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,4,2,5,
+The University of Chicago,Single and not looking for a relationship,Yes,4,5,5,1
+Harvard College,Single and looking for a relationship,No,6,2,4,
+The University of Chicago,Single and looking for a relationship,No,4,0,6,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,4,4,2,1
+University of Washington,Single and looking for a relationship,No,3,0,2,
+"University of California, San Diego","In a relationship, less than 6 months",No,6,7,6,
+University of Washington,Single and not looking for a relationship,No,,3,3,
+"University of California, Los Angeles",Single and looking for a relationship,No,5,1,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,2,5,1
+Tufts University,Single and looking for a relationship,No,5,1,5,
+The Claremont Colleges,Single and looking for a relationship,Yes,1,0,1,1
+Other,Single and not looking for a relationship,Yes,5,2,3,2
+Wellesley College,Single and looking for a relationship,No,,3,5,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,4,4,6,
+Dartmouth College,Single and looking for a relationship,Yes,5,5,6,2
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,5,6,5,1
+Wesleyan University,Single and not looking for a relationship,Yes,3,0,1,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,4,1,5,1
+The University of Chicago,Single and looking for a relationship,No,6,2,8,
+McGill University,Single and looking for a relationship,Yes,6,4,6,1
+Dartmouth College,Single and looking for a relationship,No,5,2,3,
+"University of California, Los Angeles",Single and looking for a relationship,No,5,3,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,4,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,5,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,5,3,8,1
+University of Washington,Single and not looking for a relationship,No,7,4,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,6,5,
+Carleton College,Single and looking for a relationship,Yes,4,4,5,5
+Washington University in St. Louis,Single and looking for a relationship,No,7,2,5,
+Harvard College,Single and looking for a relationship,No,8,5,6,
+"University of California, San Diego",Single and not looking for a relationship,Yes,6,3,3,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,3,1,6,1
+Tufts University,Single and not looking for a relationship,No,6,4,0,
+University of Pennsylvania,Single and not looking for a relationship,Yes,3,7,4,1.5
+Yale University,Single and not looking for a relationship,No,7,4,5,
+Wesleyan University,Single and looking for a relationship,No,5,2,5,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,7,6,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,5,1,5,
+Yale University,Single and looking for a relationship,No,5,3,2,
+Brown University,Single and not looking for a relationship,Yes,6,4,6,1
+Washington University in St. Louis,Single and not looking for a relationship,Yes,7,7,8,3
+McGill University,Single and looking for a relationship,Yes,6,5,6,2
+University of Washington,Single and looking for a relationship,Yes,3,1,6,1
+University of Pennsylvania,Single and not looking for a relationship,No,3,2,5,
+Harvard College,Single and not looking for a relationship,No,5,8,5,
+McGill University,Single and not looking for a relationship,No,6,2,5,
+Columbia University,Single and looking for a relationship,No,6,2,6,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,4,6,6,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,7,,1
+"University of California, San Diego",Single and looking for a relationship,No,5,0,7,
+Harvard College,"In a relationship, less than 6 months",No,6,6,7,
+University of Washington,"In a relationship, longer than 6 months",Yes,5,,6,3
+Washington University in St. Louis,Single and looking for a relationship,No,4,,2,
+The University of Chicago,Single and looking for a relationship,Yes,6,2,7,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,2,3
+Wesleyan University,Single and looking for a relationship,No,6,3,7,
+Yale University,Single and not looking for a relationship,Yes,4,1,6,2
+University of Pennsylvania,Single and looking for a relationship,No,4,1,5,
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,7,6,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,5,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,8,0,4,1
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,6,7,6,1
+"University of California, San Diego",Single and looking for a relationship,No,,2,5,
+University of Washington,Single and looking for a relationship,No,5,2,6,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,0,2,
+Vanderbilt University,Single and not looking for a relationship,No,5,3,4,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,6,3,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,3,5,
+The Claremont Colleges,Single and looking for a relationship,No,,5,5,
+The Claremont Colleges,Single and looking for a relationship,No,6,5,5,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,7,8,5,3
+Columbia University,Single and not looking for a relationship,Yes,,,,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,4,2,6,1
+The Claremont Colleges,Single and not looking for a relationship,No,6,6,3,
+The University of Chicago,Single and looking for a relationship,No,6,2,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,2,4,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,4,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,2,5,2
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,5,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,6,6,2
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,5,6,6,1
+Washington University in St. Louis,Single and not looking for a relationship,Yes,1,2,2,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,3,6,1
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,7,6,4,1
+Wesleyan University,Single and looking for a relationship,No,6,1,6,
+The Claremont Colleges,Single and not looking for a relationship,Yes,4,0,4,1
+Harvard College,Single and not looking for a relationship,Yes,6,6,6,2
+University of Washington,Single and looking for a relationship,No,5,2,7,
+Brown University,Single and looking for a relationship,Yes,7,3,6,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,5,2,5,1
+Boston College,"In a relationship, less than 6 months",Yes,6,7,6,2
+Yale University,Single and looking for a relationship,Yes,6,5,7,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,2,6,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,6,5,
+Yale University,Single and looking for a relationship,Yes,7,2,6,1
+Harvard College,Single and not looking for a relationship,Yes,6,2,7,1
+The Claremont Colleges,Single and looking for a relationship,No,6,3,6,
+The University of Chicago,Single and looking for a relationship,No,6,5,6,
+McGill University,Single and looking for a relationship,No,6,2,,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,4,4,
+University of Washington,Single and not looking for a relationship,Yes,2,0,1,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,2,5,
+Yale University,Single and looking for a relationship,No,7,1,6,
+The University of Chicago,Single and looking for a relationship,Yes,5,4,7,3
+The Claremont Colleges,Single and looking for a relationship,No,5,2,4,
+University of Pennsylvania,"In a relationship, less than 6 months",Yes,7,7,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,5,
+University of Washington,"In a relationship, less than 6 months",Yes,3,7,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,4,6,
+Wesleyan University,Single and looking for a relationship,No,6,2,5,
+Dartmouth College,Single and looking for a relationship,No,6,3,,
+The University of Chicago,Single and looking for a relationship,No,4,3,5,
+Boston College,Single and looking for a relationship,No,7,2,6,
+The Claremont Colleges,Single and looking for a relationship,Yes,5,3,6,1
+The Claremont Colleges,Single and looking for a relationship,No,5,4,6,
+Dartmouth College,Single and looking for a relationship,No,6,4,6,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,7,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,7,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,5,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,,5,6,3
+Carnegie Mellon University,Single and looking for a relationship,No,5,2,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,1,6,1
+University of Washington,Single and looking for a relationship,No,6,3,7,
+Boston College,"In a relationship, longer than 6 months",Yes,6,8,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,7,3,6,
+Wellesley College,Single and not looking for a relationship,No,5,2,,
+The University of Chicago,Single and looking for a relationship,Yes,3,2,5,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,6,6,1
+Yale University,Single and looking for a relationship,No,5,3,6,
+Harvard College,Single and not looking for a relationship,No,6,3,1,
+University of Pennsylvania,Single and looking for a relationship,Yes,6,4,5,
+The University of Chicago,Single and looking for a relationship,No,7,2,6,
+University of Washington,Single and looking for a relationship,No,5,2,4,
+Yale University,Single and looking for a relationship,Yes,7,3,6,4
+Harvard College,Single and looking for a relationship,No,5,1,4,
+The University of Chicago,Single and looking for a relationship,Yes,3,2,5,1
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,5,5,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,0,3,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,3,0,4,
+University of Washington,"In a relationship, less than 6 months",Yes,6,8,4,1
+Boston College,Single and not looking for a relationship,Yes,7,6,6,1
+The Claremont Colleges,Single and not looking for a relationship,No,6,1,5,
+Wesleyan University,Single and not looking for a relationship,No,7,5,8,
+Princeton University,Single and looking for a relationship,No,5,1,1,
+Boston College,Single and not looking for a relationship,No,7,3,7,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,6,
+The Claremont Colleges,Single and not looking for a relationship,No,5,2,6,
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,7,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,3,0,2,
+Dartmouth College,"In a relationship, longer than 6 months",Yes,7,7,7,1
+Boston College,Single and looking for a relationship,Yes,7,0,7,1
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,5,7,5,2
+Washington University in St. Louis,Single and not looking for a relationship,No,6,2,6,
+University of Washington,Single and looking for a relationship,No,3,0,4,
+University of Washington,Single and looking for a relationship,Yes,6,3,4,2
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,6,4,5,1
+Princeton University,Single and looking for a relationship,No,6,1,7,
+Washington University in St. Louis,Single and looking for a relationship,No,2,3,2,
+Princeton University,Single and looking for a relationship,No,1,2,3,
+Tufts University,"In a relationship, longer than 6 months",Yes,4,3,7,1
+The University of Chicago,Single and looking for a relationship,No,3,2,6,
+University of Washington,"In a relationship, longer than 6 months",Yes,6,6,6,1
+Carnegie Mellon University,Single and not looking for a relationship,No,4,4,5,
+Yale University,Single and looking for a relationship,No,3,0,1,
+Wesleyan University,Single and looking for a relationship,No,6,2,6,
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,6,6,
+Carnegie Mellon University,Single and not looking for a relationship,No,,6,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,7,6,4,2
+Washington University in St. Louis,Single and not looking for a relationship,No,7,4,6,
+Carnegie Mellon University,Single and not looking for a relationship,No,5,0,6,
+The Claremont Colleges,Single and not looking for a relationship,No,6,2,4,
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,6,3,6,1
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",No,5,6,4,
+Harvard College,Single and looking for a relationship,No,4,3,5,
+The Claremont Colleges,Single and looking for a relationship,No,6,,7,
+The University of Chicago,Single and looking for a relationship,Yes,6,0,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,1,3,
+University of Pennsylvania,Single and looking for a relationship,Yes,5,0,3,2
+McGill University,Single and not looking for a relationship,No,4,7,5,
+The Claremont Colleges,Single and looking for a relationship,No,4,,8,
+Dartmouth College,Single and not looking for a relationship,No,6,5,6,
+University of Washington,"In a relationship, less than 6 months",Yes,6,5,4,1
+University of Washington,"In a relationship, longer than 6 months",Yes,6,7,5,1
+Brown University,Single and looking for a relationship,No,4,2,3,
+Dartmouth College,"In a relationship, longer than 6 months",Yes,6,8,5,1
+Washington University in St. Louis,Single and not looking for a relationship,No,7,4,6,
+Vanderbilt University,Single and looking for a relationship,No,4,2,6,
+"University of California, Los Angeles","In a relationship, less than 6 months",Yes,6,7,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,4,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,1,6,
+The University of Chicago,Single and looking for a relationship,No,,3,6,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,5,6,1
+McGill University,Single and looking for a relationship,No,7,,6,
+Yale University,Single and looking for a relationship,Yes,6,1,6,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,7,7,1
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,2,6,1
+Princeton University,Single and looking for a relationship,No,2,4,3,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,1,5,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,5,4,1
+Boston College,Single and looking for a relationship,No,5,3,2,
+Washington University in St. Louis,Single and looking for a relationship,No,4,3,6,
+Williams College,Single and not looking for a relationship,No,5,4,4,
+Wellesley College,Single and not looking for a relationship,Yes,6,2,5,3
+"University of California, San Diego",Single and looking for a relationship,No,5,1,6,
+Yale University,"In a relationship, longer than 6 months",Yes,5,6,2,
+Boston College,Single and looking for a relationship,No,6,2,5,
+"University of California, San Diego",Single and looking for a relationship,No,2,1,,
+University of Washington,Single and looking for a relationship,No,4,3,6,
+The University of Chicago,Single and looking for a relationship,Yes,6,3,7,1
+University of Washington,Single and looking for a relationship,No,6,1,3,
+Washington University in St. Louis,"In a relationship, less than 6 months",No,3,5,2,
+Yale University,Single and looking for a relationship,No,5,3,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,7,6,1
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,6,7,5,1
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,2,,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,3,3,2
+Harvard College,Single and looking for a relationship,No,6,3,6,
+McGill University,Single and looking for a relationship,No,5,3,,
+Columbia University,Single and looking for a relationship,No,5,1,1,
+Dartmouth College,Single and not looking for a relationship,Yes,2,0,3,
+Tufts University,Single and looking for a relationship,No,4,3,6,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,3,1,5,
+Brown University,Single and looking for a relationship,No,6,1,5,
+New York University,Single and looking for a relationship,No,6,0,5,
+Harvard College,Single and looking for a relationship,No,7,5,6,
+Tufts University,Single and looking for a relationship,No,5,,3,
+University of Washington,Single and looking for a relationship,Yes,8,5,6,1
+The Claremont Colleges,Single and looking for a relationship,No,2,0,5,
+Harvard College,Single and not looking for a relationship,No,5,3,,
+Yale University,Single and looking for a relationship,No,6,2,4,
+Princeton University,Single and not looking for a relationship,Yes,6,3,6,1
+Dartmouth College,Single and looking for a relationship,No,3,1,2,
+Yale University,Single and not looking for a relationship,Yes,6,1,7,9
+"University of California, San Diego",Single and looking for a relationship,No,7,2,5,
+Harvard College,"In a relationship, longer than 6 months",No,7,7,7,
+"University of California, San Diego",Single and looking for a relationship,No,6,1,6,
+University of Washington,Single and looking for a relationship,No,3,0,6,
+University of Pennsylvania,Single and looking for a relationship,Yes,6,3,6,1
+New York University,Single and looking for a relationship,No,5,1,6,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,6,7,7,2
+Washington University in St. Louis,Single and looking for a relationship,No,7,2,5,
+"University of California, Los Angeles",Single and not looking for a relationship,No,7,2,6,
+Dartmouth College,Single and looking for a relationship,No,2,2,,
+Wesleyan University,Single and looking for a relationship,Yes,7,2,7,1
+The Claremont Colleges,Single and looking for a relationship,No,7,3,6,
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,3,3,7,3
+Yale University,Single and not looking for a relationship,No,6,4,4,
+Yale University,Single and looking for a relationship,Yes,5,4,5,3
+University of Wisconsin-Madison,Single and looking for a relationship,No,,1,3,
+Boston College,Single and looking for a relationship,No,6,,6,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,3,6,6,1
+Boston College,Single and looking for a relationship,No,6,2,6,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,6,7,6,1
+Princeton University,Single and looking for a relationship,No,5,2,5,
+"University of California, Berkeley",Single and looking for a relationship,No,1,1,0,
+Carnegie Mellon University,"In a relationship, less than 6 months",Yes,4,6,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,6,
+Brown University,"In a relationship, longer than 6 months",Yes,5,7,7,2
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,6,3,5,1
+The University of Chicago,Single and looking for a relationship,Yes,6,4,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,7,1,6,
+Boston College,Single and looking for a relationship,,6,0,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,4,3,4,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,5,7,
+Tufts University,Single and looking for a relationship,No,5,3,4,
+University of Washington,Single and looking for a relationship,No,5,2,4,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,5,7,7,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,3,1,5,2
+Boston College,Single and looking for a relationship,No,6,3,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,1,7,
+Dartmouth College,"In a relationship, less than 6 months",Yes,7,8,5,1
+Other,Single and not looking for a relationship,No,3,4,3,
+Brown University,Single and looking for a relationship,Yes,6,4,3,
+The Claremont Colleges,Single and looking for a relationship,No,3,6,6,
+Williams College,Single and looking for a relationship,Yes,2,2,7,1
+Brown University,"In a relationship, less than 6 months",Yes,5,7,6,3
+Dartmouth College,Single and looking for a relationship,No,6,5,7,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,1,5,1
+Yale University,Single and looking for a relationship,No,3,5,5,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,6,6,4,2
+The Claremont Colleges,Single and looking for a relationship,Yes,3,2,6,1
+University of Pennsylvania,Single and looking for a relationship,No,6,6,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,2,5,
+University of Washington,Single and looking for a relationship,No,6,,5,
+New York University,"In a relationship, less than 6 months",Yes,5,6,7,2
+The Claremont Colleges,Single and looking for a relationship,Yes,2,0,1,1
+The University of Chicago,Single and looking for a relationship,No,3,0,4,
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,4,
+Other,Single and looking for a relationship,Yes,7,1,4,1
+Dartmouth College,"In a relationship, less than 6 months",Yes,5,5,,1
+New York University,Single and looking for a relationship,No,5,2,5,
+Wesleyan University,Single and looking for a relationship,No,2,3,3,
+The University of Chicago,Single and looking for a relationship,Yes,6,1,6,1
+"University of California, Berkeley",Single and looking for a relationship,Yes,6,0,6,1
+Dartmouth College,Single and looking for a relationship,Yes,7,4,5,3
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,4,3,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,7,5,6,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,7,6,5
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,2,4,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,2,,3,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,7,
+Yale University,"In a relationship, less than 6 months",Yes,5,3,3,1
+Boston College,Single and looking for a relationship,No,6,5,6,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,6,7,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,8,2,1
+New York University,Single and looking for a relationship,Yes,,1,2,1
+The Claremont Colleges,Single and looking for a relationship,No,2,1,2,
+Wesleyan University,"In a relationship, less than 6 months",Yes,5,7,4,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,4,2,6,
+Harvard College,Single and looking for a relationship,No,7,5,7,
+Yale University,Single and looking for a relationship,No,2,0,6,
+Washington University in St. Louis,Single and looking for a relationship,No,6,4,4,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,2,4,1
+University of Pennsylvania,Single and not looking for a relationship,No,6,6,6,
+The Claremont Colleges,Single and looking for a relationship,No,6,3,6,
+Wesleyan University,"In a relationship, less than 6 months",Yes,6,6,7,1
+Harvard College,Single and looking for a relationship,No,6,4,2,
+Yale University,Single and looking for a relationship,No,6,2,5,
+Other,Single and looking for a relationship,No,6,4,3,
+Boston College,Single and not looking for a relationship,Yes,3,5,6,2
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,6,5,6,1
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,3,1,3,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,2,7,3
+Boston College,Single and looking for a relationship,No,3,3,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,7,8,8,1
+Washington University in St. Louis,Single and not looking for a relationship,No,7,2,1,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,3,2,1,1
+University of Washington,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and looking for a relationship,No,6,0,6,
+Carleton College,"In a relationship, less than 6 months",Yes,5,7,4,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",No,6,8,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,4,3,2,1
+Tufts University,Single and looking for a relationship,No,3,2,5,
+Tufts University,"In a relationship, longer than 6 months",Yes,6,7,7,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,3,
+Boston College,"In a relationship, less than 6 months",No,7,8,7,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,2,6,0
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,5,6,3
+Brown University,Single and looking for a relationship,No,7,4,7,
+Columbia University,Single and looking for a relationship,Yes,4,4,7,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,7,5,4
+Washington University in St. Louis,Single and not looking for a relationship,No,7,5,6,
+The Claremont Colleges,Single and looking for a relationship,No,2,0,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,,5,1
+Harvard College,Single and looking for a relationship,No,5,1,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,1,7,
+Vanderbilt University,Single and looking for a relationship,No,3,0,1,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,3,4,1
+The University of Chicago,Single and looking for a relationship,No,7,4,5,
+Vanderbilt University,"In a relationship, less than 6 months",Yes,6,6,5,1
+Dartmouth College,Single and looking for a relationship,Yes,6,5,8,2
+Harvard College,"In a relationship, less than 6 months",Yes,4,6,6,
+Other,Single and looking for a relationship,Yes,5,4,6,1
+Vanderbilt University,Single and looking for a relationship,No,3,2,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,3,5,4,2
+Tufts University,Single and looking for a relationship,No,5,2,5,
+The University of Chicago,"In a relationship, less than 6 months",Yes,6,7,4,2
+University of Pennsylvania,Single and looking for a relationship,No,6,0,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,3,3,5,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,3,6,1
+Brown University,Single and looking for a relationship,Yes,7,1,7,2
+Other,Single and looking for a relationship,Yes,7,3,5,2
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,5,8,6,1
+Dartmouth College,Single and looking for a relationship,Yes,7,2,6,1
+Tufts University,Single and looking for a relationship,Yes,,,6,1
+The Claremont Colleges,Single and looking for a relationship,No,4,4,6,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,5,4,6,3
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,8,5,1
+Princeton University,Single and not looking for a relationship,Yes,7,5,6,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,5,7,8,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,5,
+Princeton University,Single and not looking for a relationship,No,6,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,2,0,6,0
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,8,5,1
+New York University,Single and looking for a relationship,No,4,1,3,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,5,6,2
+Massachusetts Institute of Technology,Single and looking for a relationship,No,5,1,3,
+Yale University,Single and looking for a relationship,No,7,5,6,
+"University of California, San Diego",Single and looking for a relationship,No,6,3,5,
+Princeton University,"In a relationship, less than 6 months",Yes,3,5,5,1
+Dartmouth College,Single and looking for a relationship,No,6,6,6,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,5,1
+The University of Chicago,Single and looking for a relationship,No,6,1,3,
+Yale University,Single and looking for a relationship,Yes,,3,5,2
+The University of Chicago,Single and looking for a relationship,No,6,2,2,
+The University of Chicago,Single and looking for a relationship,Yes,3,3,7,1
+McGill University,Single and looking for a relationship,Yes,5,4,6,2
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,3,
+Tufts University,"In a relationship, less than 6 months",Yes,5,5,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,5,2
+Harvard College,"In a relationship, longer than 6 months",Yes,4,6,3,1
+Columbia University,Single and not looking for a relationship,Yes,5,2,6,2
+Tufts University,Single and looking for a relationship,No,7,3,6,
+Princeton University,Single and not looking for a relationship,No,6,3,3,
+University of Washington,"In a relationship, less than 6 months",Yes,6,4,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,2,1,8,1
+Dartmouth College,Single and looking for a relationship,Yes,7,4,5,1
+Dartmouth College,Single and looking for a relationship,No,6,2,5,
+The University of Chicago,Single and looking for a relationship,No,6,4,5,
+The University of Chicago,Single and looking for a relationship,Yes,3,4,7,2
+University of Washington,Single and not looking for a relationship,No,6,3,6,
+Princeton University,"In a relationship, longer than 6 months",Yes,4,6,6,1
+Columbia University,Single and looking for a relationship,No,6,2,2,
+The Claremont Colleges,Single and looking for a relationship,No,6,4,7,
+Yale University,Single and looking for a relationship,Yes,5,3,4,1
+"University of California, Los Angeles",Single and looking for a relationship,No,6,5,3,
+The University of Chicago,Single and not looking for a relationship,Yes,6,2,3,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,6,5,4
+University of Washington,Single and looking for a relationship,No,5,1,4,
+McGill University,Single and not looking for a relationship,No,5,3,7,
+Boston College,Single and looking for a relationship,No,6,4,8,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,3,7,
+Wesleyan University,Single and looking for a relationship,No,2,3,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,4,1,4,1
+The Claremont Colleges,Single and looking for a relationship,Yes,,2,6,2
+Vanderbilt University,Single and not looking for a relationship,Yes,1,3,6,1
+Vanderbilt University,Single and looking for a relationship,No,4,0,1,
+Boston College,Single and looking for a relationship,No,4,2,5,
+Dartmouth College,"In a relationship, less than 6 months",Yes,5,5,5,1
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,7,5,5,1
+Carnegie Mellon University,"In a relationship, longer than 6 months",Yes,8,8,7,2
+University of Washington,"In a relationship, less than 6 months",Yes,5,4,3,4
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,3,,,
+The Claremont Colleges,Single and looking for a relationship,No,7,3,6,
+University of Washington,Single and looking for a relationship,No,5,2,4,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,7,8,6,1
+University of Washington,Single and looking for a relationship,Yes,6,4,5,4
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,3,7,6,2
+Tufts University,Single and not looking for a relationship,Yes,6,6,7,0
+Yale University,Single and looking for a relationship,No,6,1,2,
+Yale University,Single and looking for a relationship,Yes,5,3,5,1
+Washington University in St. Louis,Single and not looking for a relationship,Yes,3,3,3,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,4,1,6,
+University of Pennsylvania,Single and looking for a relationship,Yes,5,1,6,1
+Tufts University,Single and looking for a relationship,No,6,4,6,
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,6,8,2,1
+Boston College,Single and looking for a relationship,No,4,1,5,
+Boston College,Single and looking for a relationship,Yes,4,3,6,1
+Wesleyan University,"In a relationship, less than 6 months",Yes,5,5,3,3
+Carnegie Mellon University,Single and looking for a relationship,Yes,5,3,6,2
+Columbia University,Single and looking for a relationship,Yes,7,5,8,1
+University of Washington,Single and looking for a relationship,No,7,,6,
+Wesleyan University,Single and looking for a relationship,No,2,4,5,
+The University of Chicago,Single and looking for a relationship,Yes,6,2,5,2
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,8,8,8,3
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,7,4,1
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,5,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,7,3,6,
+Boston College,Single and looking for a relationship,No,6,3,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,7,5,1
+Wesleyan University,Single and not looking for a relationship,Yes,3,6,8,1
+Carnegie Mellon University,Single and not looking for a relationship,No,3,3,3,
+Yale University,Single and looking for a relationship,No,3,2,2,
+New York University,Single and not looking for a relationship,No,6,5,7,
+New York University,Single and looking for a relationship,No,,2,6,
+McGill University,Single and looking for a relationship,Yes,,3,6,1
+Wellesley College,"In a relationship, longer than 6 months",Yes,4,7,5,2
+University of Washington,Single and not looking for a relationship,No,5,5,5,
+Williams College,Single and not looking for a relationship,No,6,2,2,
+Carleton College,Single and not looking for a relationship,No,5,6,3,
+Harvard College,Single and looking for a relationship,Yes,3,1,2,1
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,3,6,6,1
+"University of California, San Diego",Single and looking for a relationship,No,5,2,4,
+University of Pennsylvania,Single and not looking for a relationship,No,2,1,0,
+Washington University in St. Louis,Single and not looking for a relationship,No,4,6,3,
+Carnegie Mellon University,Single and looking for a relationship,No,3,1,3,
+Harvard College,Single and not looking for a relationship,No,7,4,5,
+The Claremont Colleges,Single and looking for a relationship,Yes,6,5,6,4
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,2,4,
+Princeton University,Single and not looking for a relationship,No,4,4,2,
+University of Washington,Single and not looking for a relationship,No,5,3,3,
+Washington University in St. Louis,Single and looking for a relationship,Yes,4,1,4,1
+University of Washington,Single and looking for a relationship,No,6,5,5,
+Boston College,Single and not looking for a relationship,No,5,2,6,
+Wesleyan University,Single and not looking for a relationship,No,6,1,7,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,5,4,6,1
+Princeton University,"In a relationship, longer than 6 months",Yes,4,8,4,1
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,3,
+Princeton University,"In a relationship, longer than 6 months",Yes,6,7,4,2
+University of Washington,Single and looking for a relationship,Yes,5,3,4,1
+Harvard College,"In a relationship, longer than 6 months",Yes,6,6,4,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,2,5,1
+Yale University,Single and looking for a relationship,No,6,2,3,
+Dartmouth College,Single and not looking for a relationship,No,3,6,,
+University of Washington,Single and looking for a relationship,No,4,2,8,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,3,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,2,7,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,4,6,1
+Princeton University,"In a relationship, less than 6 months",Yes,6,6,6,1
+University of Washington,"In a relationship, less than 6 months",Yes,6,7,5,2
+Yale University,Single and looking for a relationship,Yes,2,3,7,1
+University of Pennsylvania,Single and looking for a relationship,No,6,4,8,
+The University of Chicago,Single and not looking for a relationship,Yes,5,6,7,1
+The University of Chicago,Single and not looking for a relationship,No,6,5,6,
+University of Washington,Single and looking for a relationship,Yes,6,4,6,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,5,6,
+Vanderbilt University,Single and looking for a relationship,Yes,7,5,5,2
+Tufts University,Single and looking for a relationship,Yes,5,3,,2
+"University of California, San Diego",Single and not looking for a relationship,No,6,4,2,
+Harvard College,Single and not looking for a relationship,Yes,3,4,7,3
+Carleton College,Single and looking for a relationship,Yes,6,3,4,1
+"University of California, San Diego",Single and not looking for a relationship,No,,3,6,
+Brown University,"In a relationship, less than 6 months",No,,5,6,
+Washington University in St. Louis,Single and looking for a relationship,No,1,2,6,
+The University of Chicago,Single and looking for a relationship,No,5,2,6,
+Dartmouth College,Single and looking for a relationship,No,3,0,2,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,6,
+Yale University,"In a relationship, less than 6 months",Yes,6,8,6,1
+The University of Chicago,Single and looking for a relationship,No,6,2,2,
+Dartmouth College,Single and not looking for a relationship,No,7,2,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,,1,2,
+University of Washington,"In a relationship, longer than 6 months",Yes,6,8,4,1
+Wesleyan University,Single and not looking for a relationship,No,3,3,3,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,6,4,5,2
+Dartmouth College,Single and not looking for a relationship,No,6,5,6,
+The University of Chicago,Single and looking for a relationship,No,8,4,6,
+Washington University in St. Louis,,,,,,
+Dartmouth College,Single and looking for a relationship,Yes,6,4,4,2
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,4,6,5,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,5,5,3,2
+The Claremont Colleges,Single and looking for a relationship,No,4,6,6,
+Yale University,Single and looking for a relationship,No,6,2,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,7,,6,
+University of Pennsylvania,Single and looking for a relationship,No,4,2,5,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,,6,
+Dartmouth College,Single and not looking for a relationship,No,4,0,4,
+Brown University,Single and not looking for a relationship,No,7,3,7,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,2,8,1,1
+The University of Chicago,Single and not looking for a relationship,No,,,,
+The Claremont Colleges,Single and not looking for a relationship,No,5,6,5,
+The Claremont Colleges,Single and not looking for a relationship,No,6,1,3,
+University of Washington,Single and looking for a relationship,No,8,5,8,
+Harvard College,"In a relationship, longer than 6 months",Yes,5,7,4,3
+McGill University,Single and looking for a relationship,Yes,7,5,6,2
+The University of Chicago,Single and looking for a relationship,Yes,7,6,7,1.5
+Harvard College,Single and looking for a relationship,No,5,2,4,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,6,6,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,7,2,7,1
+Washington University in St. Louis,Single and looking for a relationship,No,3,4,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,3,6,4
+University of Washington,Single and looking for a relationship,No,7,4,,
+Washington University in St. Louis,Single and looking for a relationship,Yes,7,8,5,
+"University of California, Los Angeles",Single and looking for a relationship,Yes,5,2,4,1
+University of Washington,Single and not looking for a relationship,No,6,4,2,
+Vanderbilt University,Single and looking for a relationship,Yes,6,2,6,1
+University of Washington,Single and looking for a relationship,No,5,1,5,
+The University of Chicago,Single and not looking for a relationship,Yes,7,6,6,3
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,3,4,
+University of Pennsylvania,Single and not looking for a relationship,No,5,2,3,
+McGill University,"In a relationship, less than 6 months",Yes,6,7,5,1
+The University of Chicago,"In a relationship, less than 6 months",Yes,4,5,4,5
+The Claremont Colleges,Single and looking for a relationship,No,2,1,6,
+Washington University in St. Louis,Single and looking for a relationship,No,3,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,2,4,
+Brown University,Single and looking for a relationship,No,6,2,8,
+University of Pennsylvania,Single and not looking for a relationship,No,6,4,2,
+University of Pennsylvania,Single and looking for a relationship,No,4,1,5,
+The Claremont Colleges,Single and looking for a relationship,No,3,3,3,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",No,2,2,4,
+The Claremont Colleges,Single and looking for a relationship,No,5,3,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,3,2,,
+"University of California, San Diego",Single and looking for a relationship,No,6,0,4,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,6,6,5,1
+"University of California, Los Angeles",Single and looking for a relationship,Yes,6,1,8,2
+The University of Chicago,Single and looking for a relationship,No,6,2,7,
+Wesleyan University,Single and looking for a relationship,No,6,3,7,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,3,3,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,4,5,
+University of Washington,Single and not looking for a relationship,No,6,1,5,
+University of Washington,Single and looking for a relationship,No,7,6,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,1,2,
+The University of Chicago,"In a relationship, less than 6 months",Yes,6,6,8,2
+University of Washington,Single and not looking for a relationship,No,5,5,6,
+University of Washington,Single and looking for a relationship,No,3,2,6,
+The University of Chicago,Single and looking for a relationship,No,5,0,6,
+University of Washington,Single and looking for a relationship,No,6,4,5,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,6,
+University of Washington,Single and not looking for a relationship,No,7,5,5,
+University of Washington,Single and not looking for a relationship,Yes,3,2,6,1
+New York University,Single and looking for a relationship,No,2,3,,
+University of Pennsylvania,Single and not looking for a relationship,Yes,5,5,6,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,7,6,1
+University of Washington,Single and looking for a relationship,No,3,2,6,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,1,
+Wesleyan University,Single and looking for a relationship,No,4,1,6,
+Boston College,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,1,3,2
+University of Washington,Single and looking for a relationship,No,5,2,4,
+Brown University,Single and looking for a relationship,No,6,2,7,
+Dartmouth College,"In a relationship, less than 6 months",Yes,6,7,6,2
+University of Washington,Single and looking for a relationship,Yes,3,0,4,2
+Yale University,Single and looking for a relationship,Yes,4,1,3,1
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,4,
+Washington University in St. Louis,Single and not looking for a relationship,No,5,1,3,
+University of Washington,Single and not looking for a relationship,Yes,1,2,7,1
+University of Washington,"In a relationship, less than 6 months",Yes,3,3,6,
+Brown University,Single and not looking for a relationship,Yes,2,2,2,1
+Harvard College,Single and looking for a relationship,No,6,2,4,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,5,
+Carleton College,Single and looking for a relationship,No,7,2,4,
+Harvard College,"In a relationship, longer than 6 months",Yes,3,7,,
+Harvard College,Single and looking for a relationship,No,7,1,4,
+Harvard College,Single and not looking for a relationship,No,6,3,6,
+Princeton University,Single and looking for a relationship,No,5,2,5,
+Harvard College,Single and looking for a relationship,Yes,6,6,5,1
+Harvard College,"In a relationship, less than 6 months",Yes,5,7,5,2
+University of Washington,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Brown University,Single and not looking for a relationship,Yes,7,4,7,1
+Harvard College,Single and looking for a relationship,Yes,5,2,5,1
+Harvard College,Single and not looking for a relationship,Yes,3,3,5,1
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,2
+Dartmouth College,Single and not looking for a relationship,No,5,5,6,
+Harvard College,Single and looking for a relationship,No,6,1,5,
+"University of California, Los Angeles",Single and looking for a relationship,No,5,3,6,
+Harvard College,Single and looking for a relationship,No,6,,5,
+Harvard College,Single and looking for a relationship,No,6,3,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,5,7,6,1
+Carleton College,Single and not looking for a relationship,No,5,3,2,
+Harvard College,Single and looking for a relationship,Yes,2,,6,2
+Harvard College,Single and looking for a relationship,No,5,3,6,
+Harvard College,Single and looking for a relationship,No,4,1,6,
+Harvard College,"In a relationship, less than 6 months",Yes,3,6,6,2
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,2,3,2
+Harvard College,Single and not looking for a relationship,No,5,3,2,
+Harvard College,Single and looking for a relationship,No,6,2,2,
+Carleton College,Single and looking for a relationship,No,6,1,3,
+Carleton College,Single and not looking for a relationship,Yes,4,6,6,1
+Harvard College,Single and looking for a relationship,No,4,2,7,
+Carleton College,Single and looking for a relationship,No,7,0,5,
+Carleton College,Single and not looking for a relationship,No,2,1,3,
+Harvard College,Single and looking for a relationship,No,6,0,2,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,5,8,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,2,,
+Harvard College,Single and not looking for a relationship,Yes,8,6,6,2
+Harvard College,Single and looking for a relationship,Yes,4,2,6,4
+Harvard College,Single and looking for a relationship,Yes,3,0,5,
+Carleton College,"In a relationship, less than 6 months",Yes,6,5,6,2
+Tufts University,Single and looking for a relationship,No,7,6,7,
+Brown University,Single and not looking for a relationship,Yes,4,2,1,
+Harvard College,"In a relationship, longer than 6 months",Yes,4,8,8,2
+Carleton College,Single and looking for a relationship,No,2,3,1,
+Harvard College,Single and looking for a relationship,No,6,,,
+Wesleyan University,Single and looking for a relationship,Yes,3,5,4,2
+Carleton College,Single and looking for a relationship,No,4,2,5,
+Harvard College,Single and looking for a relationship,No,6,1,5,
+Carleton College,Single and looking for a relationship,Yes,5,2,5,2
+Harvard College,Single and not looking for a relationship,No,6,0,1,
+Harvard College,Single and looking for a relationship,No,7,1,6,
+Harvard College,Single and looking for a relationship,Yes,7,2,7,1
+Harvard College,Single and looking for a relationship,Yes,6,2,7,1
+Harvard College,Single and not looking for a relationship,No,6,3,5,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,0,7,
+Harvard College,Single and looking for a relationship,No,5,3,5,
+Harvard College,Single and looking for a relationship,No,5,4,8,
+University of Washington,"In a relationship, longer than 6 months",Yes,6,5,6,1
+Harvard College,Single and looking for a relationship,No,7,2,6,
+Other,Single and looking for a relationship,No,7,6,7,
+Carleton College,Single and looking for a relationship,No,6,3,3,
+Harvard College,Single and looking for a relationship,No,7,2,7,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,7,2,6,2
+Carleton College,Single and looking for a relationship,No,6,4,6,
+Harvard College,Single and looking for a relationship,Yes,,2,6,1
+Harvard College,Single and looking for a relationship,No,6,2,4,
+The Claremont Colleges,Single and looking for a relationship,No,7,1,5,
+Harvard College,Single and not looking for a relationship,Yes,,0,5,1
+Harvard College,Single and looking for a relationship,Yes,5,3,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,6,5,1
+Washington University in St. Louis,Single and not looking for a relationship,No,5,4,6,
+McGill University,Single and looking for a relationship,No,7,2,7,
+Carleton College,"In a relationship, less than 6 months",No,3,7,7,
+Harvard College,Single and looking for a relationship,No,5,2,6,
+Harvard College,"In a relationship, less than 6 months",Yes,8,7,7,1
+Harvard College,Single and looking for a relationship,No,3,1,6,
+Harvard College,Single and looking for a relationship,Yes,3,,5,1
+Harvard College,Single and looking for a relationship,No,6,3,1,
+The University of Chicago,Single and not looking for a relationship,No,2,1,4,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,8,2,2
+Harvard College,"In a relationship, longer than 6 months",Yes,8,8,6,1
+Harvard College,Single and looking for a relationship,No,6,3,7,
+Harvard College,Single and looking for a relationship,Yes,6,3,5,1
+Carleton College,Single and not looking for a relationship,Yes,6,3,6,1
+Carleton College,Single and looking for a relationship,Yes,7,3,5,1
+Brown University,Single and looking for a relationship,No,2,3,3,
+Carleton College,Single and looking for a relationship,No,6,1,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,6,6,1
+Carnegie Mellon University,Single and looking for a relationship,No,7,2,,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,5,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,8,2
+Brown University,Single and looking for a relationship,No,6,1,4,
+Carleton College,Single and looking for a relationship,Yes,5,3,3,1
+Carleton College,"In a relationship, less than 6 months",Yes,6,7,5,1
+Yale University,Single and looking for a relationship,No,6,2,1,
+Carleton College,"In a relationship, longer than 6 months",Yes,3,7,5,1
+Boston College,Single and looking for a relationship,No,6,0,8,
+Carleton College,Single and looking for a relationship,No,4,0,5,
+Harvard College,Single and looking for a relationship,No,5,2,,
+Harvard College,Single and looking for a relationship,Yes,6,2,6,1
+Harvard College,Single and looking for a relationship,No,8,2,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,2,6,6,1
+Harvard College,Single and looking for a relationship,No,5,0,5,
+Harvard College,Single and not looking for a relationship,No,7,3,3,
+Harvard College,Single and looking for a relationship,No,5,1,3,
+Carleton College,"In a relationship, longer than 6 months",Yes,6,8,7,2
+Harvard College,"In a relationship, less than 6 months",Yes,6,5,4,2
+Harvard College,Single and not looking for a relationship,No,6,,6,
+Carleton College,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and looking for a relationship,Yes,5,2,5,1
+Carleton College,Single and looking for a relationship,No,3,1,2,
+Carleton College,"In a relationship, longer than 6 months",Yes,6,6,5,1
+Harvard College,Single and looking for a relationship,No,8,3,7,
+Carnegie Mellon University,"In a relationship, longer than 6 months",Yes,7,6,3,1
+Harvard College,Single and looking for a relationship,No,4,0,1,
+Carleton College,Single and looking for a relationship,Yes,2,3,5,1
+Harvard College,Single and looking for a relationship,No,6,3,6,
+Carleton College,Single and looking for a relationship,No,6,3,5,
+Brown University,"In a relationship, less than 6 months",Yes,5,,5,3
+Harvard College,Single and not looking for a relationship,No,6,3,5,
+Yale University,Single and looking for a relationship,Yes,4,3,6,
+Harvard College,Single and not looking for a relationship,No,6,2,4,
+Carleton College,"In a relationship, longer than 6 months",Yes,6,7,5,3
+Tufts University,Single and looking for a relationship,Yes,4,1,5,1
+The University of Chicago,Single and looking for a relationship,No,6,0,2,
+Harvard College,Single and not looking for a relationship,No,7,2,6,
+Harvard College,Single and looking for a relationship,Yes,3,,7,3
+Carleton College,Single and looking for a relationship,Yes,4,2,7,1
+Harvard College,Single and looking for a relationship,No,6,4,4,
+Carleton College,"In a relationship, less than 6 months",Yes,6,7,6,2
+Harvard College,"In a relationship, longer than 6 months",Yes,5,7,6,3
+Yale University,Single and looking for a relationship,Yes,7,1,6,1
+Harvard College,Single and looking for a relationship,No,2,3,3,
+Harvard College,Single and looking for a relationship,Yes,6,3,6,2
+Harvard College,Single and looking for a relationship,No,5,3,6,
+Princeton University,Single and not looking for a relationship,Yes,3,6,6,1
+Wesleyan University,"In a relationship, less than 6 months",Yes,7,7,6,1
+Harvard College,,,,,,
+Harvard College,Single and looking for a relationship,No,4,3,5,
+University of Pennsylvania,"In a relationship, less than 6 months",Yes,6,8,3,1
+Harvard College,"In a relationship, longer than 6 months",Yes,6,5,7,3
+Harvard College,Single and not looking for a relationship,Yes,4,6,7,1
+Boston College,Single and looking for a relationship,No,5,1,1,
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,2,6,7,1
+Carleton College,"In a relationship, longer than 6 months",Yes,6,3,5,2
+University of Pennsylvania,Single and looking for a relationship,Yes,4,2,7,1
+Carleton College,"In a relationship, less than 6 months",Yes,7,5,6,1
+Harvard College,Single and looking for a relationship,No,6,1,6,
+Harvard College,Single and looking for a relationship,No,2,1,4,
+Harvard College,Single and looking for a relationship,Yes,6,5,8,2
+University of Washington,Single and looking for a relationship,No,3,0,0,
+Harvard College,"In a relationship, less than 6 months",Yes,5,5,5,1
+Harvard College,Single and not looking for a relationship,Yes,3,4,7,1
+The University of Chicago,Single and looking for a relationship,No,6,2,4,
+Harvard College,Single and looking for a relationship,Yes,5,3,7,4
+Harvard College,"In a relationship, less than 6 months",Yes,7,7,5,2
+Harvard College,Single and looking for a relationship,No,5,2,3,
+Carleton College,Single and looking for a relationship,No,5,4,6,
+Columbia University,Single and looking for a relationship,No,7,4,6,
+Carleton College,"In a relationship, longer than 6 months",Yes,6,8,7,1
+Harvard College,Single and not looking for a relationship,Yes,6,2,6,1
+Harvard College,Single and not looking for a relationship,No,6,5,8,
+Carleton College,"In a relationship, less than 6 months",Yes,4,5,5,1
+Harvard College,Single and looking for a relationship,Yes,6,3,6,2
+Harvard College,"In a relationship, less than 6 months",Yes,,7,6,2
+The Claremont Colleges,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and not looking for a relationship,No,6,5,5,
+Harvard College,Single and looking for a relationship,Yes,4,5,6,3
+"University of California, San Diego",Single and looking for a relationship,No,3,0,3,
+"University of California, Los Angeles","In a relationship, longer than 6 months",Yes,5,8,5,1
+Brown University,Single and not looking for a relationship,No,3,0,1,
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,3,
+Harvard College,Single and looking for a relationship,Yes,5,2,6,1
+Harvard College,"In a relationship, longer than 6 months",Yes,4,8,4,
+Carleton College,Single and looking for a relationship,No,6,3,6,
+The Claremont Colleges,Single and looking for a relationship,No,3,1,2,
+Harvard College,"In a relationship, longer than 6 months",Yes,4,8,6,1
+"University of California, Los Angeles",Single and looking for a relationship,No,3,1,2,
+Harvard College,Single and looking for a relationship,No,6,5,8,
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,7,6,6,1
+Harvard College,Single and not looking for a relationship,Yes,5,3,6,2
+Wellesley College,Single and not looking for a relationship,No,6,4,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,5,1,5,1
+McGill University,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and not looking for a relationship,No,5,3,5,
+Dartmouth College,Single and looking for a relationship,No,2,5,3,
+University of Wisconsin-Madison,Single and looking for a relationship,No,4,3,4,
+Carleton College,Single and not looking for a relationship,Yes,2,0,4,1
+University of Washington,Single and looking for a relationship,Yes,3,1,2,0
+Carleton College,"In a relationship, less than 6 months",Yes,7,6,6,1
+Harvard College,Single and not looking for a relationship,Yes,5,2,7,1
+Harvard College,Single and looking for a relationship,Yes,6,4,5,1
+Carleton College,Single and not looking for a relationship,No,7,3,8,
+Harvard College,Single and not looking for a relationship,Yes,5,4,7,1
+Carnegie Mellon University,Single and looking for a relationship,No,,2,6,
+Harvard College,Single and looking for a relationship,No,6,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,0,1,
+Carleton College,"In a relationship, less than 6 months",Yes,3,5,,1
+Harvard College,"In a relationship, less than 6 months",Yes,7,8,6,3
+Carleton College,"In a relationship, longer than 6 months",Yes,5,6,6,3
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,5,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,6,4,4,4
+Washington University in St. Louis,Single and not looking for a relationship,No,6,5,6,
+Harvard College,Single and not looking for a relationship,Yes,5,3,7,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,7,,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,6,6,
+Carleton College,"In a relationship, less than 6 months",Yes,6,7,5,2
+The University of Chicago,Single and looking for a relationship,Yes,2,4,1,1
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,7,7,0,1
+Vanderbilt University,"In a relationship, longer than 6 months",Yes,3,7,3,1
+Harvard College,"In a relationship, longer than 6 months",Yes,5,6,6,1
+Carleton College,Single and looking for a relationship,Yes,5,3,5,3
+Brown University,Single and not looking for a relationship,No,2,5,6,
+The University of Chicago,Single and looking for a relationship,Yes,8,2,6,2
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,6,6,8,1
+Harvard College,Single and looking for a relationship,Yes,3,1,7,1
+Harvard College,Single and looking for a relationship,Yes,5,3,7,1
+Brown University,Single and looking for a relationship,No,2,4,3,
+Tufts University,Single and looking for a relationship,No,3,1,3,
+Carleton College,Single and looking for a relationship,Yes,6,7,6,1
+University of Washington,Single and not looking for a relationship,Yes,6,6,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,7,8,5,2
+Washington University in St. Louis,Single and looking for a relationship,Yes,7,3,7,2
+Carleton College,Single and not looking for a relationship,No,6,2,,
+Harvard College,Single and not looking for a relationship,Yes,4,3,7,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,7,4,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,3,7,5,1
+University of Washington,Single and not looking for a relationship,No,6,2,6,
+Harvard College,Single and looking for a relationship,No,6,,6,
+The Claremont Colleges,Single and looking for a relationship,Yes,6,2,8,1
+Harvard College,Single and looking for a relationship,No,4,1,2,
+Harvard College,Single and not looking for a relationship,Yes,7,2,6,2
+Carleton College,Single and looking for a relationship,No,6,2,6,
+Harvard College,Single and looking for a relationship,No,5,2,6,
+Brown University,Single and looking for a relationship,Yes,3,6,6,3
+Washington University in St. Louis,Single and looking for a relationship,Yes,7,3,5,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,5,4,0
+University of Washington,Single and not looking for a relationship,Yes,6,4,6,2
+Harvard College,Single and looking for a relationship,No,6,,5,
+Dartmouth College,Single and looking for a relationship,Yes,3,,,1
+Boston College,Single and not looking for a relationship,No,3,3,6,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,4,4,
+Carnegie Mellon University,Single and looking for a relationship,Yes,3,2,4,
+Carnegie Mellon University,"In a relationship, less than 6 months",Yes,6,7,7,2
+Harvard College,Single and not looking for a relationship,Yes,0,6,3,3
+Harvard College,Single and looking for a relationship,No,1,0,4,
+Washington University in St. Louis,Single and looking for a relationship,No,4,1,4,
+Boston College,Single and looking for a relationship,No,6,2,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,3,1
+Carleton College,Single and looking for a relationship,No,7,2,4,
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,7,2
+Wesleyan University,Single and looking for a relationship,Yes,6,3,5,2
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,4,6,7,2
+Harvard College,Single and not looking for a relationship,Yes,7,6,8,6
+Harvard College,Single and looking for a relationship,Yes,7,3,6,2
+Harvard College,Single and looking for a relationship,No,6,2,7,
+Yale University,Single and looking for a relationship,Yes,3,4,6,1
+Carleton College,Single and looking for a relationship,Yes,2,4,6,
+Carnegie Mellon University,"In a relationship, longer than 6 months",Yes,7,8,7,2
+Carleton College,Single and looking for a relationship,No,5,3,3,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,7,2,
+Harvard College,Single and looking for a relationship,No,7,5,4,
+Carleton College,Single and looking for a relationship,No,5,2,3,
+Harvard College,Single and looking for a relationship,No,5,2,8,
+Carleton College,Single and looking for a relationship,No,6,4,5,
+Washington University in St. Louis,Single and looking for a relationship,Yes,4,1,6,1
+Harvard College,Single and not looking for a relationship,Yes,5,5,7,3
+Carleton College,Single and looking for a relationship,No,6,,,
+Brown University,Single and looking for a relationship,Yes,2,3,5,2
+Harvard College,"In a relationship, less than 6 months",Yes,4,4,2,1
+Brown University,Single and looking for a relationship,No,3,2,2,
+The University of Chicago,"In a relationship, less than 6 months",Yes,6,7,6,2
+Harvard College,Single and looking for a relationship,No,7,4,6,
+Harvard College,Single and looking for a relationship,No,7,3,6,
+University of Washington,Single and not looking for a relationship,No,2,4,3,
+"University of California, San Diego",Single and not looking for a relationship,No,5,3,5,
+Brown University,Single and looking for a relationship,Yes,4,3,6,2
+Carnegie Mellon University,Single and not looking for a relationship,No,3,1,5,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,5,4,6,1
+Wesleyan University,Single and not looking for a relationship,Yes,7,2,5,1
+Harvard College,Single and looking for a relationship,No,4,2,2,
+Harvard College,"In a relationship, less than 6 months",Yes,3,6,5,1
+Yale University,Single and looking for a relationship,Yes,5,2,4,2
+University of Pennsylvania,Single and looking for a relationship,No,5,0,7,
+The Claremont Colleges,Single and not looking for a relationship,No,5,4,5,
+"University of Nevada, Las Vegas",Single and not looking for a relationship,No,6,3,5,
+Harvard College,Single and not looking for a relationship,Yes,4,1,,1
+Boston College,Single and looking for a relationship,No,6,1,7,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,7,1
+The University of Chicago,Single and looking for a relationship,Yes,3,2,6,1
+Carleton College,"In a relationship, less than 6 months",Yes,4,6,6,2
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,1
+New York University,Single and not looking for a relationship,Yes,6,2,5,1
+Harvard College,Single and looking for a relationship,No,6,0,7,
+Harvard College,"In a relationship, less than 6 months",Yes,5,3,5,2
+Harvard College,Single and looking for a relationship,No,6,3,4,
+Carleton College,Single and looking for a relationship,Yes,5,2,2,1
+University of Washington,Single and not looking for a relationship,Yes,7,4,6,1
+The Claremont Colleges,Single and looking for a relationship,No,5,1,6,
+Harvard College,Single and looking for a relationship,No,7,5,6,
+Carleton College,"In a relationship, less than 6 months",Yes,8,6,6,1
+Williams College,Single and looking for a relationship,No,6,2,3,
+Yale University,Single and looking for a relationship,Yes,3,3,5,1
+Harvard College,"In a relationship, longer than 6 months",Yes,5,7,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,4,3,2,1
+Harvard College,Single and not looking for a relationship,Yes,6,,6,1
+Harvard College,Single and looking for a relationship,No,5,1,4,
+Williams College,Single and looking for a relationship,No,4,2,5,
+The Claremont Colleges,Single and not looking for a relationship,No,6,2,7,
+Washington University in St. Louis,Single and looking for a relationship,No,2,0,0,
+Princeton University,"In a relationship, less than 6 months",Yes,6,8,4,1
+University of Wisconsin-Madison,Single and not looking for a relationship,No,2,4,1,
+Carnegie Mellon University,Single and looking for a relationship,No,,0,3,
+Carleton College,Single and not looking for a relationship,No,4,2,7,
+Harvard College,Single and not looking for a relationship,No,6,2,5,
+Harvard College,"In a relationship, less than 6 months",Yes,6,5,6,2
+Harvard College,Single and not looking for a relationship,No,5,4,5,
+The Claremont Colleges,Single and looking for a relationship,Yes,3,2,4,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,4,
+"University of California, Los Angeles",Single and not looking for a relationship,Yes,2,6,5,1
+University of Washington,"In a relationship, longer than 6 months",Yes,6,3,3,2
+Harvard College,Single and looking for a relationship,No,4,2,3,
+Harvard College,Single and not looking for a relationship,No,7,7,5,
+New York University,Single and looking for a relationship,No,6,,5,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,3,4,
+Carleton College,Single and looking for a relationship,No,4,3,6,
+Harvard College,"In a relationship, less than 6 months",Yes,7,7,7,1
+Harvard College,Single and looking for a relationship,No,6,3,4,
+Harvard College,Single and looking for a relationship,No,4,6,6,
+Carleton College,Single and looking for a relationship,Yes,7,4,7,1
+The Claremont Colleges,Single and looking for a relationship,No,5,4,7,
+Harvard College,"In a relationship, less than 6 months",Yes,7,7,7,2
+The Claremont Colleges,Single and not looking for a relationship,No,6,,6,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,7,7,4,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,7,2,6,1
+The University of Chicago,Single and looking for a relationship,No,6,3,4,
+Tufts University,Single and looking for a relationship,No,3,1,2,
+Harvard College,Single and looking for a relationship,No,5,3,6,
+Dartmouth College,Single and looking for a relationship,No,,2,6,
+Harvard College,Single and not looking for a relationship,Yes,7,5,5,1
+Carleton College,"In a relationship, longer than 6 months",Yes,2,8,8,1
+Harvard College,Single and not looking for a relationship,Yes,3,0,2,1
+University of Washington,Single and looking for a relationship,No,5,3,8,
+The University of Chicago,Single and not looking for a relationship,Yes,7,7,6,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,4,5,5,1
+The Claremont Colleges,Single and looking for a relationship,Yes,6,3,7,3
+Carleton College,Single and not looking for a relationship,Yes,5,2,3,3
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,5,3
+Yale University,Single and not looking for a relationship,No,5,1,6,
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,5,6,2,2
+Carleton College,Single and not looking for a relationship,Yes,7,6,6,2
+Carleton College,Single and looking for a relationship,Yes,4,1,6,2
+McGill University,Single and looking for a relationship,Yes,3,2,6,1
+University of Washington,Single and not looking for a relationship,No,4,4,4,
+Princeton University,Single and looking for a relationship,No,5,1,3,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,0,6,3
+Harvard College,"In a relationship, longer than 6 months",Yes,5,7,,
+Harvard College,Single and not looking for a relationship,Yes,6,4,6,
+Harvard College,Single and looking for a relationship,No,6,2,3,
+University of Washington,Single and looking for a relationship,No,3,5,5,
+The University of Chicago,Single and looking for a relationship,No,6,4,3,
+Washington University in St. Louis,Single and looking for a relationship,No,2,0,2,
+Harvard College,Single and not looking for a relationship,No,,,0,
+University of Washington,Single and not looking for a relationship,No,6,5,3,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,5,5,1
+Brown University,Single and looking for a relationship,No,3,4,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,2,6,
+New York University,Single and looking for a relationship,No,3,2,0,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,5,7,5,1
+Harvard College,Single and looking for a relationship,Yes,5,3,7,3
+Tufts University,Single and looking for a relationship,No,6,2,5,
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,7,7,6,2
+Carleton College,Single and looking for a relationship,Yes,6,2,6,1
+Brown University,Single and looking for a relationship,No,6,2,3,
+The Claremont Colleges,,Yes,7,4,5,3
+Yale University,"In a relationship, less than 6 months",Yes,4,6,5,2
+Boston College,Single and looking for a relationship,No,6,1,5,
+Dartmouth College,"In a relationship, longer than 6 months",Yes,5,5,5,2
+University of Washington,Single and looking for a relationship,No,5,1,7,
+Harvard College,Single and looking for a relationship,Yes,7,4,6,1
+Carleton College,"In a relationship, longer than 6 months",Yes,5,7,5,2.5
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,6,8,6,1
+Harvard College,Single and looking for a relationship,Yes,5,,5,2
+Harvard College,"In a relationship, longer than 6 months",Yes,5,5,6,3
+Yale University,Single and looking for a relationship,,5,3,5,
+Dartmouth College,"In a relationship, longer than 6 months",Yes,6,6,6,1
+Harvard College,Single and looking for a relationship,Yes,7,2,4,1
+Harvard College,Single and looking for a relationship,No,3,2,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,7,
+Harvard College,Single and looking for a relationship,No,7,2,0,
+The University of Chicago,Single and looking for a relationship,No,4,1,4,
+Harvard College,Single and looking for a relationship,Yes,6,4,6,3
+"University of California, Los Angeles","In a relationship, longer than 6 months",Yes,,8,7,1
+Harvard College,Single and not looking for a relationship,Yes,6,3,5,1
+Harvard College,Single and not looking for a relationship,Yes,6,5,,1
+Harvard College,Single and not looking for a relationship,No,6,4,3,
+Harvard College,Single and looking for a relationship,No,6,1,1,
+University of Washington,Single and looking for a relationship,No,3,2,4,
+Tufts University,Single and looking for a relationship,No,6,5,2,
+Washington University in St. Louis,Single and looking for a relationship,No,5,4,4,
+Carleton College,Single and looking for a relationship,No,3,1,3,
+Harvard College,"In a relationship, less than 6 months",Yes,3,5,4,1
+Harvard College,Single and looking for a relationship,Yes,5,1,6,1
+Boston College,Single and looking for a relationship,No,6,3,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,5,7,6,3
+Tufts University,Single and looking for a relationship,No,6,1,5,
+"University of California, Los Angeles",Single and looking for a relationship,No,5,0,6,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,8,7,7,3
+The University of Chicago,Single and not looking for a relationship,No,5,0,7,
+Yale University,"In a relationship, less than 6 months",Yes,6,8,5,3
+Harvard College,Single and looking for a relationship,Yes,8,7,3,1.5
+Williams College,Single and not looking for a relationship,No,7,3,3,
+Brown University,Single and looking for a relationship,No,5,4,7,
+Harvard College,Single and looking for a relationship,No,5,1,2,
+Other,Single and looking for a relationship,No,5,2,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,3,2,5,1
+Carleton College,,,,,,
+Carleton College,Single and looking for a relationship,No,4,2,5,
+Washington University in St. Louis,Single and looking for a relationship,No,7,3,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,6,2
+"University of California, San Diego",Single and looking for a relationship,No,3,1,5,
+Harvard College,Single and looking for a relationship,No,6,2,,
+Harvard College,Single and looking for a relationship,Yes,6,6,6,1
+Carleton College,Single and not looking for a relationship,Yes,,,,2
+Carleton College,"In a relationship, less than 6 months",Yes,4,6,6,4
+McGill University,Single and not looking for a relationship,No,1,0,0,
+Brown University,Single and looking for a relationship,No,6,1,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,5,4,5,1
+The Claremont Colleges,Single and not looking for a relationship,Yes,5,4,6,1
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,6,2
+Boston College,Single and not looking for a relationship,Yes,4,2,4,1
+Carleton College,Single and looking for a relationship,No,5,3,5,
+Wellesley College,Single and not looking for a relationship,No,3,4,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,4,6,
+The University of Chicago,Single and not looking for a relationship,No,5,3,4,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,1
+"University of California, San Diego",Single and looking for a relationship,No,2,1,3,
+Carleton College,Single and looking for a relationship,No,5,2,4,
+The Claremont Colleges,Single and not looking for a relationship,Yes,3,1,6,1
+Dartmouth College,Single and not looking for a relationship,No,3,6,2,
+The University of Chicago,Single and looking for a relationship,Yes,5,2,5,1
+Harvard College,Single and looking for a relationship,Yes,5,3,,3
+Harvard College,Single and not looking for a relationship,Yes,6,2,6,3
+University of Washington,Single and looking for a relationship,No,4,2,4,
+The University of Chicago,Single and looking for a relationship,No,5,1,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,6,5,5,1
+Tufts University,Single and looking for a relationship,No,4,2,6,
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,6,1
+Harvard College,Single and not looking for a relationship,No,3,1,1,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,2,4,
+University of Washington,Single and not looking for a relationship,No,2,3,1,
+Harvard College,"In a relationship, longer than 6 months",Yes,3,7,2,2
+Wesleyan University,Single and not looking for a relationship,No,7,5,5,
+"University of California, Berkeley",Single and looking for a relationship,No,6,5,5,
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,7,8,6,3
+The Claremont Colleges,Single and looking for a relationship,No,5,2,6,
+The Claremont Colleges,Single and looking for a relationship,No,5,1,5,
+Harvard College,"In a relationship, less than 6 months",No,6,4,5,
+Tufts University,Single and looking for a relationship,No,6,3,4,
+Harvard College,Single and looking for a relationship,Yes,5,3,6,3
+Washington University in St. Louis,Single and not looking for a relationship,No,6,4,4,
+"University of California, Berkeley",Single and not looking for a relationship,No,6,,7,
+Carleton College,"In a relationship, less than 6 months",Yes,4,6,4,3
+Brown University,Single and looking for a relationship,No,7,2,6,
+University of Washington,"In a relationship, less than 6 months",No,3,7,6,
+"University of Nevada, Las Vegas",Single and looking for a relationship,No,6,,4,
+Harvard College,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and not looking for a relationship,No,6,6,6,
+Harvard College,Single and not looking for a relationship,No,7,6,8,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,6,
+Harvard College,Single and looking for a relationship,Yes,6,3,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,7,7,3
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,7,5,1
+Princeton University,Single and looking for a relationship,No,2,0,2,
+Harvard College,Single and looking for a relationship,No,6,2,5,
+Vanderbilt University,Single and looking for a relationship,No,2,1,6,
+The Claremont Colleges,Single and looking for a relationship,No,5,2,2,
+Harvard College,Single and not looking for a relationship,No,5,3,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,2
+Harvard College,Single and looking for a relationship,Yes,5,2,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,3,8,
+Carleton College,Single and looking for a relationship,No,3,3,6,
+Yale University,Single and looking for a relationship,No,7,3,6,
+Carleton College,"In a relationship, less than 6 months",Yes,5,5,6,3
+Harvard College,Single and not looking for a relationship,No,6,,,
+Carleton College,"In a relationship, less than 6 months",Yes,5,5,6,2
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,4,5,
+Harvard College,Single and looking for a relationship,Yes,7,1,,
+Harvard College,Single and looking for a relationship,No,7,2,6,
+Other,Single and looking for a relationship,Yes,3,2,2,1
+Harvard College,Single and looking for a relationship,No,5,3,5,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,5,8,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,8,0,
+Carleton College,Single and looking for a relationship,No,4,1,6,
+Brown University,Single and looking for a relationship,No,5,2,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,3,6,
+Harvard College,Single and not looking for a relationship,No,7,6,5,
+Carleton College,Single and looking for a relationship,Yes,7,2,6,2
+Harvard College,Single and looking for a relationship,No,5,2,,
+Wesleyan University,Single and not looking for a relationship,Yes,6,3,6,1
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,7,5,6,2
+Harvard College,Single and looking for a relationship,Yes,7,5,6,1
+Other,Single and looking for a relationship,Yes,8,7,7,2
+The Claremont Colleges,Single and looking for a relationship,Yes,2,3,6,5
+Carleton College,Single and looking for a relationship,No,5,0,6,
+Harvard College,Single and looking for a relationship,Yes,5,3,6,1
+Boston College,Single and looking for a relationship,No,5,0,5,
+Boston College,Single and not looking for a relationship,No,4,,0,
+University of Washington,Single and looking for a relationship,No,4,1,2,
+Princeton University,"In a relationship, longer than 6 months",Yes,3,5,5,1
+Carnegie Mellon University,Single and looking for a relationship,Yes,2,0,4,1
+Carleton College,Single and not looking for a relationship,Yes,7,1,5,1
+Wesleyan University,Single and looking for a relationship,No,7,2,6,
+Brown University,"In a relationship, longer than 6 months",Yes,2,5,6,1
+University of Pennsylvania,Single and looking for a relationship,No,,1,5,
+Tufts University,"In a relationship, less than 6 months",Yes,8,7,6,1
+Harvard College,Single and looking for a relationship,No,2,4,3,
+Harvard College,"In a relationship, less than 6 months",Yes,6,6,6,1
+Carleton College,Single and looking for a relationship,No,8,,8,
+Princeton University,Single and looking for a relationship,No,6,3,1,
+Dartmouth College,"In a relationship, longer than 6 months",Yes,8,8,8,2
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,4,3,4,1
+University of Washington,Single and looking for a relationship,No,4,3,3,
+University of Pennsylvania,Single and looking for a relationship,No,3,0,1,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,4,8,
+Harvard College,Single and looking for a relationship,No,6,1,4,
+"University of California, San Diego","In a relationship, less than 6 months",Yes,7,7,4,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,5,
+Carleton College,"In a relationship, longer than 6 months",Yes,4,5,8,2
+Washington University in St. Louis,Single and looking for a relationship,No,5,3,7,
+The Claremont Colleges,Single and not looking for a relationship,Yes,6,2,7,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,,3,6,4
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,2,6,1
+Princeton University,"In a relationship, less than 6 months",Yes,5,7,6,1
+Harvard College,Single and looking for a relationship,No,5,2,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,7,2
+Harvard College,Single and not looking for a relationship,Yes,5,2,4,3
+Washington University in St. Louis,Single and not looking for a relationship,Yes,5,4,3,2
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,6,7,6,1
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,7,6,1
+Harvard College,Single and looking for a relationship,Yes,6,2,7,2
+Carnegie Mellon University,Single and looking for a relationship,Yes,5,3,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,1,4,
+The Claremont Colleges,Single and not looking for a relationship,Yes,7,5,5,2
+Yale University,Single and looking for a relationship,No,7,3,5,
+Harvard College,"In a relationship, less than 6 months",Yes,4,7,6,2
+Harvard College,Single and looking for a relationship,No,,0,1,
+University of Washington,Single and looking for a relationship,No,3,4,4,
+Harvard College,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and looking for a relationship,No,7,4,3,
+Harvard College,Single and not looking for a relationship,No,3,0,3,
+Harvard College,Single and looking for a relationship,No,2,0,4,
+University of Washington,Single and not looking for a relationship,No,5,4,5,
+Harvard College,Single and not looking for a relationship,No,5,6,4,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,2,0,1
+Carleton College,Single and looking for a relationship,Yes,2,2,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,6,7,2
+The University of Chicago,Single and not looking for a relationship,Yes,7,3,7,2
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,7,3,7,2
+University of Washington,Single and looking for a relationship,No,6,4,6,
+The University of Chicago,Single and not looking for a relationship,No,6,5,4,
+University of Washington,Single and looking for a relationship,No,6,1,5,
+Carleton College,Single and not looking for a relationship,No,5,3,2,
+Harvard College,Single and looking for a relationship,No,6,3,4,
+The University of Chicago,Single and looking for a relationship,Yes,6,3,6,4
+Brown University,Single and looking for a relationship,No,7,2,6,
+University of Washington,Single and looking for a relationship,No,6,5,6,
+Yale University,Single and not looking for a relationship,No,4,5,,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,3,6,1
+Carleton College,Single and looking for a relationship,No,5,,3,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,3,6,7,6
+Princeton University,Single and looking for a relationship,No,5,3,7,
+Harvard College,Single and looking for a relationship,Yes,3,0,2,2
+Carleton College,"In a relationship, longer than 6 months",Yes,5,6,8,1
+Tufts University,Single and looking for a relationship,No,3,2,4,
+Tufts University,Single and looking for a relationship,No,6,3,5,
+Tufts University,"In a relationship, less than 6 months",Yes,7,5,6,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,3,7,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,6,6,1
+Wesleyan University,Single and looking for a relationship,No,5,2,4,
+Wellesley College,Single and not looking for a relationship,No,7,2,4,
+Yale University,"In a relationship, longer than 6 months",Yes,5,6,6,1
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,2,5,6,2
+Princeton University,Single and looking for a relationship,No,3,4,3,
+Harvard College,Single and not looking for a relationship,Yes,7,4,5,1
+"University of California, San Diego",Single and not looking for a relationship,No,6,4,3,
+Carleton College,Single and looking for a relationship,Yes,5,1,5,2
+University of Wisconsin-Madison,Single and looking for a relationship,No,8,4,6,
+Harvard College,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and looking for a relationship,No,2,3,7,
+The University of Chicago,Single and looking for a relationship,No,4,2,,
+Yale University,Single and looking for a relationship,No,6,2,6,
+Washington University in St. Louis,Single and looking for a relationship,No,7,0,5,
+Harvard College,Single and looking for a relationship,No,6,2,1,
+Dartmouth College,"In a relationship, longer than 6 months",Yes,5,6,6,2
+Princeton University,Single and looking for a relationship,No,5,2,2,
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,1,0,6,2
+University of Pennsylvania,Single and not looking for a relationship,No,6,4,,
+McGill University,"In a relationship, less than 6 months",Yes,8,7,8,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,4,,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,6,1
+"University of California, San Diego",Single and looking for a relationship,No,6,2,1,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,,,
+Boston College,Single and looking for a relationship,Yes,2,5,6,2
+University of Washington,Single and looking for a relationship,No,2,3,5,
+Boston College,Single and looking for a relationship,No,5,1,5,
+Dartmouth College,Single and looking for a relationship,No,5,5,6,
+University of Washington,"In a relationship, longer than 6 months",Yes,6,7,7,1
+Dartmouth College,Single and looking for a relationship,No,6,5,7,
+Harvard College,Single and looking for a relationship,Yes,6,2,7,1
+New York University,"In a relationship, longer than 6 months",Yes,6,7,6,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,0,8,1,2
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,4,5,2
+Harvard College,Single and looking for a relationship,No,7,1,5,
+"University of California, Los Angeles",Single and looking for a relationship,No,6,3,4,
+Harvard College,Single and not looking for a relationship,Yes,4,7,4,1
+Harvard College,Single and looking for a relationship,Yes,7,2,3,1
+Harvard College,Single and not looking for a relationship,No,5,3,7,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,2,6,6,
+Carleton College,"In a relationship, longer than 6 months",Yes,2,6,6,1
+Tufts University,Single and looking for a relationship,No,7,5,5,
+University of Pennsylvania,Single and looking for a relationship,No,4,2,6,
+University of Pennsylvania,Single and not looking for a relationship,No,8,,7,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,4
+Harvard College,Single and not looking for a relationship,Yes,5,5,6,1
+The Claremont Colleges,Single and looking for a relationship,No,6,3,5,
+The Claremont Colleges,Single and looking for a relationship,No,5,1,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,7,4,1,2
+"University of California, Los Angeles",Single and not looking for a relationship,Yes,4,1,4,1
+University of Washington,Single and not looking for a relationship,No,5,3,2,
+Brown University,Single and looking for a relationship,No,6,5,7,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,6,2,,
+Princeton University,Single and looking for a relationship,No,6,2,6,
+The University of Chicago,Single and looking for a relationship,No,4,1,2,
+Harvard College,Single and not looking for a relationship,No,4,1,3,
+Harvard College,"In a relationship, less than 6 months",Yes,8,8,2,1
+Washington University in St. Louis,Single and looking for a relationship,No,3,2,5,
+Tufts University,Single and not looking for a relationship,No,5,3,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,2,2,2,
+The Claremont Colleges,Single and not looking for a relationship,Yes,5,1,5,1
+University of Washington,Single and not looking for a relationship,No,3,5,2,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,3,2,3,2
+Tufts University,Single and looking for a relationship,No,6,3,6,
+Princeton University,Single and looking for a relationship,No,7,3,7,
+Tufts University,Single and looking for a relationship,No,6,2,4,
+"University of California, San Diego",Single and not looking for a relationship,No,7,2,6,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,7,5,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,7,5,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,7,3,7,2
+University of Wisconsin-Madison,Single and not looking for a relationship,No,3,3,0,
+Washington University in St. Louis,Single and looking for a relationship,No,7,3,5,
+The Claremont Colleges,Single and looking for a relationship,No,3,2,8,
+Yale University,Single and not looking for a relationship,Yes,7,2,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,2,4,
+University of Washington,Single and looking for a relationship,Yes,2,,1,1
+Carleton College,Single and looking for a relationship,Yes,5,1,,1
+Princeton University,"In a relationship, longer than 6 months",Yes,4,5,4,1
+The University of Chicago,Single and not looking for a relationship,No,4,4,6,
+Carleton College,Single and looking for a relationship,No,7,2,6,
+University of Washington,"In a relationship, less than 6 months",Yes,,5,3,1
+Harvard College,Single and looking for a relationship,No,6,6,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,2,5,
+The University of Chicago,Single and looking for a relationship,No,6,1,6,
+University of Pennsylvania,Single and looking for a relationship,No,4,4,2,
+Harvard College,Single and looking for a relationship,No,6,4,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,0,5,
+Carleton College,Single and looking for a relationship,Yes,5,3,4,1
+University of Pennsylvania,Single and looking for a relationship,Yes,4,4,6,2
+Brown University,Single and looking for a relationship,No,3,1,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,7,6,1
+Harvard College,"In a relationship, longer than 6 months",Yes,7,7,7,1
+The University of Chicago,Single and looking for a relationship,No,6,2,6,
+Harvard College,Single and not looking for a relationship,No,5,4,3,
+Washington University in St. Louis,"In a relationship, less than 6 months",No,1,6,6,
+The Claremont Colleges,Single and looking for a relationship,No,6,3,5,
+Washington University in St. Louis,"In a relationship, less than 6 months",No,8,4,8,
+Harvard College,Single and looking for a relationship,No,7,6,4,
+Harvard College,"In a relationship, less than 6 months",Yes,6,6,7,3
+Harvard College,"In a relationship, longer than 6 months",Yes,3,6,5,0
+Tufts University,Single and looking for a relationship,No,8,4,,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,4,2,,
+Harvard College,"In a relationship, less than 6 months",No,6,5,4,
+Boston College,"In a relationship, less than 6 months",Yes,3,5,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,4,4,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,3,4,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,7,1,6,1
+"University of Nevada, Las Vegas",Single and not looking for a relationship,No,4,6,3,
+University of Washington,Single and looking for a relationship,No,3,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,3,,1
+Brown University,Single and looking for a relationship,No,3,2,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,5,6,6,1
+The University of Chicago,"In a relationship, longer than 6 months",Yes,5,8,6,3
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,3,6,6
+Harvard College,Single and looking for a relationship,Yes,6,2,6,2
+McGill University,Single and looking for a relationship,No,6,4,6,
+Brown University,Single and not looking for a relationship,No,7,2,5,
+Carleton College,"In a relationship, less than 6 months",Yes,5,7,6,1
+University of Wisconsin-Madison,Single and not looking for a relationship,No,4,1,5,
+University of Pennsylvania,Single and looking for a relationship,Yes,5,3,8,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,5,6,1
+University of Washington,Single and looking for a relationship,Yes,4,4,5,3
+Harvard College,Single and looking for a relationship,Yes,5,2,6,3
+University of Pennsylvania,Single and not looking for a relationship,Yes,,0,5,1
+Harvard College,Single and looking for a relationship,No,7,0,5,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,3,1,2,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,5,6,6,1
+Brown University,Single and looking for a relationship,No,4,3,2,
+Brown University,Single and looking for a relationship,Yes,5,5,6,4
+Harvard College,Single and not looking for a relationship,No,4,0,5,
+Other,Single and looking for a relationship,Yes,6,0,,2
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,3,1
+Carnegie Mellon University,Single and looking for a relationship,No,7,,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,6,5,1
+The University of Chicago,Single and looking for a relationship,No,5,6,6,
+University of Washington,Single and looking for a relationship,No,5,2,6,
+New York University,Single and looking for a relationship,Yes,5,5,8,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,5,6,4,
+Carleton College,"In a relationship, less than 6 months",Yes,5,7,5,4
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,5,3,2,1
+"University of California, Los Angeles",Single and looking for a relationship,No,6,2,6,
+University of Washington,Single and looking for a relationship,No,5,2,6,
+Washington University in St. Louis,Single and looking for a relationship,No,3,4,4,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,2,6,
+Dartmouth College,Single and looking for a relationship,No,5,1,1,
+University of Washington,Single and looking for a relationship,No,6,,5,
+Carleton College,Single and looking for a relationship,No,6,5,5,
+Harvard College,Single and looking for a relationship,No,2,3,6,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,7,
+Wesleyan University,Single and looking for a relationship,No,7,6,7,
+"University of California, San Diego","In a relationship, less than 6 months",Yes,6,7,1,2
+Harvard College,Single and not looking for a relationship,Yes,3,2,1,1
+"University of California, San Diego",Single and looking for a relationship,No,5,1,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,3
+"University of California, San Diego",Single and not looking for a relationship,No,3,2,4,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,5,5,6,1
+Harvard College,Single and looking for a relationship,No,5,3,4,
+Harvard College,Single and not looking for a relationship,Yes,6,2,3,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,7,7,1
+New York University,"In a relationship, less than 6 months",Yes,5,8,7,3
+The Claremont Colleges,Single and not looking for a relationship,Yes,6,3,6,1
+"University of California, Los Angeles",Single and not looking for a relationship,No,6,,3,
+University of Washington,Single and looking for a relationship,No,4,2,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,2,5,
+The Claremont Colleges,Single and looking for a relationship,Yes,5,3,6,2
+Harvard College,Single and looking for a relationship,No,5,0,1,
+University of Washington,Single and looking for a relationship,No,7,6,6,
+The University of Chicago,Single and not looking for a relationship,No,6,2,2,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,7,
+The Claremont Colleges,Single and looking for a relationship,Yes,6,2,5,1
+Wellesley College,"In a relationship, longer than 6 months",Yes,4,3,5,
+Dartmouth College,Single and looking for a relationship,No,4,1,3,
+Harvard College,Single and not looking for a relationship,Yes,1,1,5,1
+Boston College,Single and not looking for a relationship,Yes,6,3,5,1
+Brown University,Single and looking for a relationship,Yes,5,2,6,1
+Yale University,Single and looking for a relationship,No,5,0,2,
+Other,Single and not looking for a relationship,No,5,2,5,
+University of Washington,Single and looking for a relationship,No,3,1,4,
+University of Washington,Single and looking for a relationship,No,2,0,0,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,8,8,8,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,8,7,5
+Vanderbilt University,Single and not looking for a relationship,No,4,3,2,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,5,1,5,2
+University of Washington,Single and not looking for a relationship,Yes,6,6,2,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,2,4,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,1,4,
+Washington University in St. Louis,Single and not looking for a relationship,No,5,2,6,
+New York University,Single and not looking for a relationship,No,2,2,3,
+The Claremont Colleges,Single and looking for a relationship,No,5,3,5,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,4,7,6,1
+The Claremont Colleges,Single and looking for a relationship,Yes,6,6,7,2
+Harvard College,Single and looking for a relationship,Yes,6,2,5,1
+The Claremont Colleges,Single and looking for a relationship,No,4,0,3,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,2,2,7,2
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,4,
+Washington University in St. Louis,Single and not looking for a relationship,No,2,2,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,3,5,6,1
+Washington University in St. Louis,Single and looking for a relationship,Yes,7,4,7,1
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,5,
+Brown University,Single and not looking for a relationship,No,3,2,2,
+Yale University,"In a relationship, longer than 6 months",Yes,7,6,7,2
+Massachusetts Institute of Technology,Single and looking for a relationship,No,7,1,6,
+Harvard College,Single and looking for a relationship,No,4,1,3,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,2,1
+Harvard College,Single and not looking for a relationship,No,5,3,,
+Washington University in St. Louis,Single and looking for a relationship,No,4,3,6,
+McGill University,Single and not looking for a relationship,Yes,4,1,5,1
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,8,1
+Brown University,Single and looking for a relationship,No,6,2,6,
+Brown University,Single and looking for a relationship,Yes,4,2,,1
+The University of Chicago,Single and looking for a relationship,No,5,2,4,
+Yale University,Single and not looking for a relationship,Yes,7,4,7,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,4,5,
+Washington University in St. Louis,Single and looking for a relationship,No,5,2,6,
+The University of Chicago,Single and not looking for a relationship,No,6,3,5,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,5,8,,1
+Dartmouth College,Single and looking for a relationship,No,7,2,3,
+Massachusetts Institute of Technology,Single and not looking for a relationship,No,5,2,3,
+McGill University,"In a relationship, less than 6 months",Yes,5,6,6,2
+Carleton College,Single and looking for a relationship,Yes,6,3,6,2
+The Claremont Colleges,Single and looking for a relationship,Yes,7,5,7,2
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,6,5,
+McGill University,"In a relationship, longer than 6 months",Yes,7,8,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,2,4,3,3
+The University of Chicago,Single and looking for a relationship,No,7,2,6,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,7,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,,,6,1
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,3,7,4,1
+Harvard College,Single and looking for a relationship,Yes,7,2,6,1
+The University of Chicago,Single and looking for a relationship,Yes,6,2,6,1
+Dartmouth College,Single and not looking for a relationship,No,2,7,7,
+Yale University,"In a relationship, longer than 6 months",Yes,6,6,6,1
+Harvard College,Single and not looking for a relationship,No,4,7,2,
+McGill University,Single and looking for a relationship,No,6,2,5,
+Yale University,Single and looking for a relationship,Yes,6,3,6,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,5,7,1
+Harvard College,Single and looking for a relationship,No,7,5,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,4,7,
+Boston College,Single and looking for a relationship,No,,2,2,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,2,1,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,5,5,2
+Tufts University,Single and looking for a relationship,No,7,2,6,
+New York University,Single and looking for a relationship,Yes,7,5,8,2
+Carnegie Mellon University,Single and not looking for a relationship,Yes,5,3,3,1
+Washington University in St. Louis,Single and not looking for a relationship,No,2,4,4,
+University of Washington,Single and not looking for a relationship,Yes,5,2,6,2
+Vanderbilt University,Single and looking for a relationship,No,5,2,,
+The University of Chicago,Single and looking for a relationship,No,6,,5,
+Harvard College,Single and looking for a relationship,Yes,6,,,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,,3,3,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,2,
+University of Wisconsin-Madison,Single and looking for a relationship,No,4,3,4,
+Washington University in St. Louis,Single and looking for a relationship,No,5,1,4,
+Yale University,Single and looking for a relationship,No,6,2,2,
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,5,7,3,1
+Harvard College,Single and not looking for a relationship,Yes,5,2,6,2
+Brown University,Single and looking for a relationship,No,6,3,4,
+Washington University in St. Louis,Single and looking for a relationship,Yes,2,2,5,1
+Other,"In a relationship, longer than 6 months",Yes,6,8,6,1
+Harvard College,"In a relationship, longer than 6 months",Yes,4,7,5,1
+New York University,Single and looking for a relationship,Yes,5,3,7,1
+Harvard College,Single and looking for a relationship,No,7,6,3,
+Carleton College,Single and not looking for a relationship,Yes,6,6,6,4
+Wesleyan University,Single and not looking for a relationship,No,7,6,,
+Harvard College,Single and looking for a relationship,No,7,2,5,
+Carleton College,Single and looking for a relationship,No,5,3,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,2,5,
+The Claremont Colleges,Single and looking for a relationship,No,5,3,6,
+Boston College,Single and looking for a relationship,No,6,1,5,
+Washington University in St. Louis,Single and looking for a relationship,Yes,2,1,5,1
+The Claremont Colleges,Single and looking for a relationship,No,5,2,8,
+University of Washington,Single and looking for a relationship,No,5,3,4,
+McGill University,Single and looking for a relationship,No,7,3,5,
+Wesleyan University,Single and not looking for a relationship,No,6,4,6,
+Carleton College,Single and looking for a relationship,No,6,5,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,6,7,1
+University of Pennsylvania,Single and looking for a relationship,No,6,2,5,
+The University of Chicago,Single and looking for a relationship,No,5,3,3,
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,6,4,4,1
+University of Wisconsin-Madison,Single and not looking for a relationship,No,6,4,4,
+Williams College,"In a relationship, less than 6 months",Yes,3,5,6,1
+Washington University in St. Louis,Single and not looking for a relationship,No,6,6,5,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,5,3,5,1
+Carleton College,"In a relationship, less than 6 months",Yes,6,6,5,2
+Brown University,Single and not looking for a relationship,Yes,,1,1,1
+Dartmouth College,Single and not looking for a relationship,No,6,2,2,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,1,5,1
+Harvard College,"In a relationship, less than 6 months",Yes,6,3,3,3
+Carleton College,Single and not looking for a relationship,No,6,4,4,
+Brown University,Single and not looking for a relationship,Yes,6,5,5,4
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,6,7,6,2
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,4,
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,1,2,6,2
+Harvard College,Single and looking for a relationship,No,6,3,3,
+Wesleyan University,Single and looking for a relationship,Yes,3,5,5,1
+University of Washington,Single and not looking for a relationship,No,6,4,4,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,3,3,4,
+The Claremont Colleges,Single and looking for a relationship,No,3,4,6,
+Harvard College,Single and not looking for a relationship,Yes,5,,6,1
+Brown University,"In a relationship, less than 6 months",Yes,6,7,6,1
+Harvard College,Single and looking for a relationship,Yes,4,4,6,
+Vanderbilt University,Single and looking for a relationship,No,5,2,7,
+Massachusetts Institute of Technology,"In a relationship, longer than 6 months",Yes,2,8,3,3
+University of Washington,Single and looking for a relationship,No,6,2,,
+University of Washington,Single and looking for a relationship,No,2,0,6,
+Carleton College,"In a relationship, less than 6 months",Yes,1,7,6,1
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,6,6,6,1
+Dartmouth College,Single and not looking for a relationship,Yes,,4,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,2,2,
+Yale University,Single and looking for a relationship,Yes,5,0,4,4
+Yale University,Single and looking for a relationship,Yes,3,5,6,3.5
+Dartmouth College,Single and looking for a relationship,No,6,5,5,
+McGill University,Single and not looking for a relationship,Yes,5,1,4,1
+The Claremont Colleges,Single and looking for a relationship,Yes,4,4,5,2
+University of Pennsylvania,Single and looking for a relationship,No,6,6,8,
+Washington University in St. Louis,Single and not looking for a relationship,No,6,7,4,
+The Claremont Colleges,Single and looking for a relationship,No,3,2,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,3,5,
+Washington University in St. Louis,Single and not looking for a relationship,No,1,0,0,
+Harvard College,Single and looking for a relationship,No,6,3,3,
+Harvard College,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and looking for a relationship,No,3,1,2,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,4,4,1
+McGill University,Single and looking for a relationship,No,4,2,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,7,1
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,8,7,20
+Wesleyan University,Single and looking for a relationship,No,6,5,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,5,5,1
+Washington University in St. Louis,Single and not looking for a relationship,No,5,2,5,
+University of Washington,Single and looking for a relationship,No,6,2,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,2,3,7,2
+Harvard College,Single and looking for a relationship,No,7,2,6,
+Yale University,Single and looking for a relationship,Yes,6,2,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,4,4,3,
+University of Wisconsin-Madison,Single and looking for a relationship,No,3,1,4,
+Tufts University,Single and not looking for a relationship,No,6,1,7,
+Carleton College,Single and not looking for a relationship,No,6,7,4,
+The University of Chicago,Single and looking for a relationship,Yes,,3,5,1
+Harvard College,Single and looking for a relationship,No,6,2,7,
+The University of Chicago,Single and looking for a relationship,No,2,0,2,
+Carleton College,Single and looking for a relationship,Yes,5,4,6,3
+Columbia University,Single and not looking for a relationship,Yes,3,,3,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,3,6,
+The University of Chicago,Single and looking for a relationship,No,5,0,4,
+Harvard College,Single and looking for a relationship,Yes,7,6,7,2
+University of Washington,"In a relationship, less than 6 months",Yes,3,3,5,1
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,7,7,6,1
+Washington University in St. Louis,Single and looking for a relationship,No,5,0,,
+Carleton College,"In a relationship, longer than 6 months",Yes,5,5,4,1
+The Claremont Colleges,Single and looking for a relationship,No,5,1,3,
+Brown University,Single and looking for a relationship,Yes,6,1,8,1
+Boston College,Single and not looking for a relationship,No,1,1,7,
+Vanderbilt University,Single and looking for a relationship,No,5,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,7,2,2,
+Harvard College,Single and looking for a relationship,Yes,5,6,8,2
+University of Pennsylvania,Single and looking for a relationship,No,6,1,5,
+University of Washington,Single and looking for a relationship,No,,2,6,
+The University of Chicago,Single and looking for a relationship,Yes,4,6,5,1
+Washington University in St. Louis,Single and looking for a relationship,No,5,0,1,
+Harvard College,Single and looking for a relationship,No,6,1,5,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,2,5,
+Carnegie Mellon University,Single and looking for a relationship,Yes,2,3,6,3
+Washington University in St. Louis,Single and looking for a relationship,No,7,1,1,
+Harvard College,Single and looking for a relationship,No,6,,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,3,4,
+Dartmouth College,Single and not looking for a relationship,No,7,6,6,
+New York University,Single and looking for a relationship,No,6,2,6,
+Harvard College,"In a relationship, longer than 6 months",Yes,6,7,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,2,7,
+Harvard College,"In a relationship, less than 6 months",Yes,5,7,5,1
+University of Pennsylvania,"In a relationship, less than 6 months",Yes,6,6,3,1
+Harvard College,Single and not looking for a relationship,No,4,2,4,
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,5,6,
+University of Washington,Single and not looking for a relationship,No,6,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,2,4,2,
+Harvard College,Single and not looking for a relationship,Yes,6,3,5,1
+Carleton College,Single and looking for a relationship,Yes,2,3,5,2
+The Claremont Colleges,Single and looking for a relationship,No,,1,2,
+Carleton College,Single and not looking for a relationship,Yes,5,,8,
+Harvard College,Single and not looking for a relationship,No,7,6,6,
+The Claremont Colleges,Single and looking for a relationship,Yes,7,5,6,
+The University of Chicago,Single and looking for a relationship,Yes,4,5,7,2
+Harvard College,Single and not looking for a relationship,No,7,7,0,
+The University of Chicago,Single and looking for a relationship,Yes,6,4,4,0
+University of Wisconsin-Madison,Single and looking for a relationship,No,2,0,1,
+Carleton College,Single and looking for a relationship,Yes,5,1,6,2
+University of Washington,Single and not looking for a relationship,Yes,4,6,6,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,7,1,6,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,4,6,7
+Washington University in St. Louis,Single and not looking for a relationship,No,5,3,1,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,4,8,7,1
+Williams College,Single and looking for a relationship,No,6,1,4,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,6,1
+The University of Chicago,Single and not looking for a relationship,Yes,6,4,5,2
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,8,6,3
+Boston College,Single and looking for a relationship,No,5,2,6,
+The University of Chicago,Single and looking for a relationship,No,6,5,3,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,3,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,2,4,
+The Claremont Colleges,Single and not looking for a relationship,No,5,3,6,
+The Claremont Colleges,Single and looking for a relationship,No,4,2,7,
+McGill University,"In a relationship, less than 6 months",Yes,6,7,5,1
+Yale University,Single and not looking for a relationship,No,3,4,4,
+Yale University,Single and looking for a relationship,Yes,4,3,6,1
+Carnegie Mellon University,Single and looking for a relationship,No,5,4,4,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,5,2,6,2
+Dartmouth College,Single and looking for a relationship,No,6,2,5,
+Harvard College,Single and not looking for a relationship,Yes,6,5,6,1
+Williams College,Single and looking for a relationship,No,4,3,4,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,2,2,7,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,6,5,3
+Wellesley College,Single and not looking for a relationship,No,6,8,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,2,4,1
+Carleton College,Single and not looking for a relationship,No,7,7,8,
+Carleton College,Single and looking for a relationship,No,5,3,4,
+Wesleyan University,Single and not looking for a relationship,No,,2,3,
+The University of Chicago,Single and looking for a relationship,No,3,1,3,
+The Claremont Colleges,Single and not looking for a relationship,No,5,3,6,
+New York University,Single and looking for a relationship,No,,5,6,
+University of Washington,Single and not looking for a relationship,Yes,2,0,5,1
+Harvard College,Single and looking for a relationship,Yes,7,3,4,2
+The University of Chicago,Single and looking for a relationship,Yes,5,2,3,1
+The University of Chicago,Single and looking for a relationship,No,5,0,6,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,5,6,1
+University of Washington,Single and looking for a relationship,No,3,2,5,
+The University of Chicago,"In a relationship, longer than 6 months",Yes,6,7,4,2
+McGill University,Single and looking for a relationship,No,2,2,0,
+"University of California, Berkeley",Single and looking for a relationship,No,,3,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,0,5,
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,6,5,5,2
+Harvard College,"In a relationship, longer than 6 months",Yes,8,8,5,1
+Carleton College,"In a relationship, longer than 6 months",No,6,3,2,
+The Claremont Colleges,Single and not looking for a relationship,Yes,4,2,6,3
+Yale University,"In a relationship, less than 6 months",Yes,6,,,2
+Harvard College,Single and looking for a relationship,No,6,2,5,
+"University of California, Los Angeles",Single and looking for a relationship,No,8,2,3,
+Harvard College,Single and not looking for a relationship,Yes,6,4,5,1
+The University of Chicago,Single and looking for a relationship,No,,,,
+New York University,Single and looking for a relationship,Yes,5,,3,1
+The University of Chicago,Single and looking for a relationship,No,3,2,6,
+The Claremont Colleges,"In a relationship, less than 6 months",Yes,6,7,7,1
+Harvard College,Single and not looking for a relationship,No,,,3,
+Tufts University,"In a relationship, longer than 6 months",Yes,6,8,6,
+Harvard College,"In a relationship, less than 6 months",Yes,5,6,7,3
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,6,5,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,4,6,1
+Harvard College,Single and looking for a relationship,Yes,6,5,5,1
+The Claremont Colleges,Single and not looking for a relationship,No,3,3,2,
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,1,5,1
+Carnegie Mellon University,Single and looking for a relationship,No,5,1,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,1,5,
+McGill University,Single and looking for a relationship,No,5,3,6,
+McGill University,Single and not looking for a relationship,Yes,8,2,7,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,4,7,5
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,6,5,8,4
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,7,2
+University of Pennsylvania,"In a relationship, less than 6 months",Yes,7,8,6,1
+University of Washington,Single and looking for a relationship,No,3,,5,
+McGill University,Single and looking for a relationship,Yes,7,2,5,
+Washington University in St. Louis,Single and looking for a relationship,Yes,5,,5,1
+Carleton College,Single and looking for a relationship,Yes,6,6,7,2
+Yale University,"In a relationship, less than 6 months",Yes,5,5,6,1
+Boston College,Single and looking for a relationship,Yes,7,4,8,2
+Boston College,Single and looking for a relationship,Yes,5,1,6,1
+University of Washington,Single and looking for a relationship,No,6,1,7,
+Washington University in St. Louis,Single and looking for a relationship,No,5,5,2,
+Harvard College,Single and looking for a relationship,No,5,,6,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,5,4,6,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,5,7,6,1
+University of Pennsylvania,Single and looking for a relationship,No,7,,7,
+Yale University,Single and looking for a relationship,Yes,8,5,7,2
+Harvard College,Single and not looking for a relationship,No,7,4,4,
+Brown University,"In a relationship, less than 6 months",Yes,6,6,6,5
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,5,2,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,8,1
+Carleton College,"In a relationship, less than 6 months",Yes,6,6,6,1
+Brown University,Single and looking for a relationship,Yes,6,7,5,3
+Washington University in St. Louis,Single and looking for a relationship,Yes,6,2,4,3
+The University of Chicago,Single and looking for a relationship,No,5,2,5,
+"University of Nevada, Las Vegas","In a relationship, longer than 6 months",Yes,8,8,8,2
+Harvard College,Single and looking for a relationship,Yes,6,2,6,2
+The Claremont Colleges,Single and looking for a relationship,No,5,2,3,
+Washington University in St. Louis,Single and looking for a relationship,Yes,4,3,5,0
+University of Washington,Single and not looking for a relationship,No,6,4,5,
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,7,3,7,
+University of Wisconsin-Madison,Single and looking for a relationship,No,2,2,4,
+McGill University,"In a relationship, longer than 6 months",Yes,6,8,7,4
+Harvard College,Single and looking for a relationship,No,5,3,3,
+Wellesley College,Single and not looking for a relationship,No,6,5,6,
+University of Washington,"In a relationship, less than 6 months",Yes,6,7,6,1
+Brown University,Single and looking for a relationship,No,6,3,6,
+Harvard College,Single and looking for a relationship,No,5,0,2,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,7,7,6,1
+University of Washington,Single and looking for a relationship,Yes,7,4,6,1
+The University of Chicago,"In a relationship, less than 6 months",Yes,5,6,3,2
+Carleton College,Single and looking for a relationship,Yes,5,2,6,2
+Wesleyan University,Single and looking for a relationship,Yes,3,3,6,2
+The University of Chicago,Single and looking for a relationship,No,5,1,6,
+University of Wisconsin-Madison,Single and looking for a relationship,No,1,2,0,
+The Claremont Colleges,Single and looking for a relationship,No,6,,1,
+Columbia University,Single and looking for a relationship,No,6,2,8,
+Brown University,Single and not looking for a relationship,Yes,7,5,6,1
+The Claremont Colleges,Single and looking for a relationship,Yes,5,2,5,1
+The Claremont Colleges,Single and looking for a relationship,Yes,,6,5,2
+Tufts University,Single and looking for a relationship,No,7,1,5,
+Washington University in St. Louis,Single and looking for a relationship,No,4,2,,
+The University of Chicago,Single and looking for a relationship,No,2,0,3,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,6,1,5,
+Wellesley College,Single and looking for a relationship,No,5,0,5,
+Columbia University,Single and not looking for a relationship,No,6,3,5,
+Tufts University,Single and looking for a relationship,No,6,3,5,
+Massachusetts Institute of Technology,Single and looking for a relationship,Yes,6,3,5,1
+Carleton College,"In a relationship, longer than 6 months",Yes,5,7,7,1
+"University of California, San Diego",Single and looking for a relationship,Yes,7,6,8,1
+University of Wisconsin-Madison,Single and not looking for a relationship,Yes,8,4,6,1
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,6,3,7,1
+University of Washington,Single and looking for a relationship,No,6,,7,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,6,3,2,
+Carleton College,Single and looking for a relationship,No,5,3,5,
+University of Washington,Single and looking for a relationship,No,3,1,2,
+The Claremont Colleges,Single and not looking for a relationship,No,6,4,4,
+The Claremont Colleges,Single and looking for a relationship,Yes,3,1,3,1
+Massachusetts Institute of Technology,Single and not looking for a relationship,Yes,6,5,,4
+"University of California, San Diego",Single and looking for a relationship,No,6,1,6,
+University of Washington,Single and looking for a relationship,No,5,,,
+University of Pennsylvania,Single and not looking for a relationship,No,3,4,6,
+Carleton College,"In a relationship, longer than 6 months",No,6,8,5,
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,5,
+Washington University in St. Louis,"In a relationship, longer than 6 months",Yes,6,7,7,2
+Washington University in St. Louis,Single and looking for a relationship,No,6,3,5,
+"University of California, San Diego",Single and looking for a relationship,Yes,6,5,7,2
+"University of California, San Diego",Single and looking for a relationship,Yes,4,2,5,1
+University of Wisconsin-Madison,"In a relationship, less than 6 months",Yes,5,6,6,1
+Brown University,Single and looking for a relationship,Yes,5,4,6,1
+Other,Single and looking for a relationship,No,5,3,7,
+Tufts University,Single and not looking for a relationship,No,7,5,5,
+Princeton University,Single and looking for a relationship,No,6,5,6,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,7,1,6,1
+The Claremont Colleges,Single and not looking for a relationship,No,6,4,4,
+"University of California, Los Angeles",Single and looking for a relationship,No,4,5,1,
+Harvard College,Single and looking for a relationship,Yes,7,5,5,1
+Brown University,Single and looking for a relationship,No,4,2,5,
+"University of California, Los Angeles",Single and looking for a relationship,Yes,8,8,8,10
+Washington University in St. Louis,"In a relationship, less than 6 months",Yes,7,6,6,2
+Brown University,Single and looking for a relationship,No,2,0,1,
+Harvard College,"In a relationship, less than 6 months",Yes,6,8,6,2
+The University of Chicago,Single and looking for a relationship,Yes,6,2,7,3
+New York University,Single and looking for a relationship,No,3,2,1,
+The University of Chicago,Single and looking for a relationship,No,5,1,7,
+Washington University in St. Louis,Single and not looking for a relationship,No,5,5,6,
+University of Washington,Single and looking for a relationship,No,3,2,5,
+The Claremont Colleges,"In a relationship, longer than 6 months",Yes,4,6,6,1
+The University of Chicago,Single and looking for a relationship,No,5,1,3,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,7,4,6,1
+Brown University,"In a relationship, less than 6 months",Yes,2,6,7,1
+Brown University,Single and looking for a relationship,Yes,7,3,6,1
+Carnegie Mellon University,"In a relationship, less than 6 months",No,2,0,5,
+Tufts University,Single and looking for a relationship,No,4,2,5,
+Harvard College,"In a relationship, longer than 6 months",Yes,7,8,6,3
+The University of Chicago,Single and looking for a relationship,No,3,2,4,
+Massachusetts Institute of Technology,"In a relationship, less than 6 months",Yes,5,5,5,1
+University of Washington,Single and not looking for a relationship,Yes,7,2,,1
+"University of California, Los Angeles",Single and looking for a relationship,No,3,1,2,
+Yale University,Single and looking for a relationship,Yes,6,5,5,1
+University of Wisconsin-Madison,Single and looking for a relationship,No,5,4,3,
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,3,1,4,1
+Harvard College,"In a relationship, less than 6 months",Yes,4,6,7,1
+Brown University,Single and not looking for a relationship,No,7,3,6,
+University of Washington,Single and looking for a relationship,No,7,3,7,
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,2,5,
+Carleton College,Single and looking for a relationship,Yes,6,2,7,1
+The Claremont Colleges,Single and looking for a relationship,No,3,2,4,
+Brown University,Single and looking for a relationship,Yes,7,2,6,1
+University of Washington,Single and looking for a relationship,Yes,6,5,4,1
+The Claremont Colleges,Single and looking for a relationship,Yes,5,1,5,1
+Massachusetts Institute of Technology,Single and looking for a relationship,No,6,3,5,
+Brown University,"In a relationship, longer than 6 months",Yes,6,7,6,1
+McGill University,"In a relationship, longer than 6 months",Yes,5,5,2,2
+Harvard College,Single and looking for a relationship,No,4,3,5,
+Brown University,Single and looking for a relationship,Yes,6,3,5,2
+University of Wisconsin-Madison,Single and looking for a relationship,Yes,5,5,7,2
+Wesleyan University,Single and not looking for a relationship,No,3,4,6,
+Princeton University,Single and looking for a relationship,No,6,1,4,
+University of Washington,Single and looking for a relationship,No,7,2,6,
+Harvard College,Single and looking for a relationship,No,7,2,6,
+Vanderbilt University,Single and looking for a relationship,Yes,1,5,4,1
+Harvard College,Single and looking for a relationship,Yes,6,2,3,1
+Tufts University,Single and looking for a relationship,Yes,6,2,6,1
+University of Pennsylvania,Single and looking for a relationship,No,6,1,6,
+Harvard College,Single and looking for a relationship,No,3,2,3,
+Harvard College,Single and looking for a relationship,Yes,6,,8,1
+The University of Chicago,Single and not looking for a relationship,Yes,8,5,6,2
+"University of California, Los Angeles",Single and not looking for a relationship,No,3,0,2,
+"University of California, Berkeley",Single and looking for a relationship,No,6,3,4,
+Wellesley College,Single and not looking for a relationship,Yes,5,4,2,1
+Wellesley College,Single and not looking for a relationship,No,5,7,6,
+McGill University,Single and not looking for a relationship,Yes,3,0,4,1
+The Claremont Colleges,Single and looking for a relationship,No,6,4,,
+The Claremont Colleges,Single and looking for a relationship,No,6,2,5,
+University of Washington,Single and not looking for a relationship,Yes,2,1,3,1
+"University of California, San Diego",Single and not looking for a relationship,No,3,2,5,
+Brown University,Single and not looking for a relationship,No,6,2,6,
+Washington University in St. Louis,Single and not looking for a relationship,No,3,6,5,
+Wellesley College,Single and looking for a relationship,No,6,2,6,
+Brown University,"In a relationship, longer than 6 months",Yes,6,6,2,1
+The Claremont Colleges,Single and not looking for a relationship,No,6,4,4,
+Williams College,Single and not looking for a relationship,Yes,6,6,5,1
+Williams College,"In a relationship, longer than 6 months",Yes,6,7,8,1
+Brown University,Single and looking for a relationship,No,4,2,3,
+Williams College,Single and looking for a relationship,Yes,5,4,7,2
+Harvard College,Single and looking for a relationship,No,6,5,5,
+"University of California, Los Angeles",Single and not looking for a relationship,No,3,,6,
+Washington University in St. Louis,Single and not looking for a relationship,Yes,4,4,5,2
+University of Wisconsin-Madison,"In a relationship, longer than 6 months",Yes,6,8,5,1
+Boston College,Single and looking for a relationship,Yes,6,5,6,2
+Brown University,"In a relationship, less than 6 months",Yes,7,0,8,2
+Brown University,Single and looking for a relationship,Yes,6,4,5,2
+Other,Single and not looking for a relationship,No,6,0,5,
+"University of California, Berkeley",Single and not looking for a relationship,No,6,5,5,
+Harvard College,Single and looking for a relationship,No,6,1,5,
+Brown University,Single and looking for a relationship,No,7,4,6,
+Carleton College,Single and looking for a relationship,No,6,3,3,
+University of Wisconsin-Madison,Single and not looking for a relationship,No,5,4,6,
+McGill University,Single and looking for a relationship,No,6,2,7,
