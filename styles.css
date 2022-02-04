@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+  font-family: Apercu;
+  font-size: 48px;
+  color: #D7525B;
+}
+
+body {
+  font-family: Apercu;
+}
+
+.form-group {
+  margin: auto;
+}

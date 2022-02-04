@@ -5,27 +5,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Datamatch</title>
 
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="styles.css">
+  <link href="//db.onlinewebfonts.com/c/0a086e32e41c5e5960b26626757f07f3?family=Apercu" rel="stylesheet" type="text/css"/>
   <body>
     <div class="container">
       <!-- Container for the visualization --> 
-        <h1>Visual</h1>
+        <h1>Datamatch</h1>
  
         <form class="chart-form">
           <div class="form-group">
             <label for="ranking-type">Filter by</label>
             <select class="form-option" id="school-type">
-              <option value="Harvard College">Harvard</option>
-              <option value="Yale University">Yale</option>
+              <option value="Carleton College">Carleton College</option>
+              <option value="Dartmouth College">Dartmouth College</option>
+              <option value="Harvard College">Harvard College</option>
+              <option value="McGill University">McGill University</option>
+              <option value="Massachusetts Institute of Technology">MIT</option>
+              <option value="Washington University in St. Louis">Washington University</option>
+              <option value="Yale University">Yale University</option>
+              <option value="Princeton University">Princeton University</option>
             </select>
             <select class="form-option" id="ranking-type">
-              <option value="life_sat-relationship_sat">Relationship Satisfaction </option>
-              <option value="life_sat-self_desirability">Self-desirability</option>
+              <option name="Relationship Satisfaction" value="life_sat-relationship_sat">Relationship Satisfaction </option>
+              <option name="Self-desirability" value="life_sat-self_desirability">Self-desirability</option>
+              <option name="Number of Relationships" value="life_sat-num_relationships">Number of Relationships</option>
             </select>
           </div>
         </form>
         <div id="chart-area"></div>
-        <div id="chart-area2"></div>
       </div>
     </div>
 
